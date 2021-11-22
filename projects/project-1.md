@@ -36,7 +36,7 @@
 
     B) The App will utilize Firebase to create a Community page
 
-OR
+    **OR**
 
 - The App will utilize Mapbox and display location data that is returned by a web service. The app will not solely display hard-coded (or locally stored) location data
 
@@ -44,7 +44,7 @@ OR
 
     D) App Page Improvements:
 
-        - animated button or element letting the user know when a search is going on
+          - animated button or element letting the user know when a search is going on
 
     E) Design & Interaction 
 
