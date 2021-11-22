@@ -48,12 +48,12 @@
 
     E) Design & Interaction 
 
-        - Pleasing graphic design
-        - Users must be able to figure out how to use the app with minimal instruction
-          - be sure to provide instruction and tooltips if necessary
-        - User errors must be handled gracefully
-          - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
-        - Users must know what *state* the app is in at all times
+    1. Pleasing graphic design
+    1. Users must be able to figure out how to use the app with minimal instruction
+      - be sure to provide instruction and tooltips if necessary
+    1. User errors must be handled gracefully
+      - for example, if the user forgets to type in a search term before clicking the Search button, the app should tell the user something like "Please enter a search term first"
+    1. Users must know what *state* the app is in at all times
 
 <hr>
 
