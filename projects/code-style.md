@@ -8,9 +8,9 @@
 ## I. Web file naming conventions
 
 - "web" folder and file names (HTML/CSS/JS/images etc) will be in all lower case letters, with words separated by dashes:
-  - example **user-form.html** is ok, **userForm.html** is NOT allowed
+  - capital letters are NOT allowed anywhere in a file name
+  - example **user-form.html** is best, **userform.html** is acceptable, but **Userform.html** OR **userForm.html** are NOT allowed
   - spaces are NOT allowed in file names - ex. **user form.html** or **user%20form.html** are NOT allowed
-  - capital letters are NOT allowed anywhere in file name (ex. camel case not allowed)
   - exceptions:
     - ES6 class names will begin in an uppercase letter (ex. **Sprite.js**)
     - font file names may have uppercase letters
@@ -20,6 +20,7 @@
 ## II. HTML & DOM Traversal
 - HTML source code elements will be properly and consistently indented
 - HTML `id` and `class` attribute names will be in all lower case letters, with words separated by dashes
+  - example `<a id="my-name" />` or `<a id="myname" />` are OK, but `<a id="myName" />` is NOT allowed
 - Selecting DOM elements (aka "DOM Traversal") will be done with `document.querySelector()` and/or `document.querySelectorAll()`:
   - *NEVER* use `document.getElementById()`, `document.getElementsByTagName()` etc, or *jQuery* in this class
 - Hooking up events:
