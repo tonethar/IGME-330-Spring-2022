@@ -16,7 +16,7 @@
       - ES6 class names will begin in an uppercase letter (ex. **Sprite.js**)
       - font file names may have uppercase letters
     
-<hr>
+<hr><hr>
 
 ## II. HTML & DOM Traversal
 
@@ -32,7 +32,7 @@
     - *Event listeners* (ex. `myButton.addEventListener("click",doStuff)`) and *Event Handlers* (ex. `myButton.onclick = doStuff)`) are both allowed
     - NEVER use inline event handlers in the HTML - ex. `<button onclick="doStuff()">Click Me</button>`
 
-<hr>
+<hr><hr>
 
 ## III. JavaScript
 
@@ -46,9 +46,11 @@
     - *Q: So why is camel-casing allowed with variable names, but not with file names, function names, id names etc?*
       - *A: Because we can't use dashes in JS variable names, they would be interpreted as a minus sign*
 
-3) ES6 class names always begin in an uppercase letter - ex. `Class Sprite{}`
+3) ES6 class names *always* begin in an uppercase letter - ex. `Class Sprite{}`
     - code shall be consistently indented and "line up" so that it is readable:
     - you can use 2-spaces, 4-spaces, or tabs - it just has to be  *consistent* and *readable*
+
+<hr>
 
 ### III-A. ES6 Modules
 
@@ -59,28 +61,42 @@
     - you would NOT do this in the HTML file:
       - `<script type="module" src="./src/app/js">` and `<script type="module" src="./src/my-component.js">`
 
+2) All `import` statements must be at the top of the file
+
+3) All `export` statements must be at the bottom of the file
+
+<hr>
 
 ### III-B. Extraneous or Unnecessary Code
 
-- There may be grade deductions for *unnecessary* code such as:
-  - unused variables or functions
-  - code that doesn't do anything (ex. `"use strict"` in a module)
-  - looping through an array that always has only one element in it
-  - highly *inefficient* code that could easily be simplified
-  - misuse of `for` or `while` loops in such a way that the resources of the browser are taxed
-  - repeated blocks of code that have not been factored out into a common function (i.e. violating the D.R.Y. principle)
-  - and so on. The amount of the grade deduction will vary in proportion to the severity of the violation
-- **What we *won't* deduct points for**:
-  - the use of regular functions instead of the more compact syntax of ES6 Arrow Functions (regular JS functions are OK to use!)
-  - minor stylistic differences (ex. we don't care where you place your curly braces, or whether you use spaces or tabs for indenting)
-  - if you never use [array/object destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) (*although you really should use these when it makes sense!*)
-  - if you prefer longer `if/else` syntax instead of the more terse versions such as the [ternary operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator), [logical short circuiting](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c?gi=523775959546), the [nullish-coalesing operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator), [logical nullish assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_nullish_assignment) or [optional chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining) etc (*although you really should use these!*)
+1) There may be grade deductions for *unnecessary* code such as:
+    - unused variables or functions
+    - code that doesn't do anything (ex. `"use strict"` in a module)
+    - looping through an array that always has only one element in it
+    - highly *inefficient* code that could easily be simplified
+    - misuse of `for` or `while` loops in such a way that the resources of the browser are taxed
+    - repeated blocks of code that have not been factored out into a common function (i.e. violating the D.R.Y. principle)
+    - and so on. The amount of the grade deduction will vary in proportion to the severity of the violation
 
+2) **What we *won't* deduct points for**:
+    - the use of regular functions instead of the more compact syntax of ES6 Arrow Functions (regular JS functions are OK to use!)
+    - minor stylistic differences (ex. we don't care where you place your curly braces, or whether you use spaces or tabs for indenting)
+    - if you never use [array/object destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment) (*although you really should use these when it makes sense!*)
+    - if you prefer longer `if/else` syntax instead of the more terse versions such as 
+      - [ternary operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+      - [logical short circuiting](https://codeburst.io/javascript-what-is-short-circuit-evaluation-ff22b2f5608c?gi=523775959546)
+      - [nullish-coalesing operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Nullish_coalescing_operator)
+      - [logical nullish assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_nullish_assignment)
+      - [optional chaining](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Optional_chaining)
+      - etc ... (*although you really should use these!*)
 
-### III-B. JS Errors
-- Potential errors must be guarded against:
-  - ex. checking to see if an object is "not nil" before trying to access a property of it
-- Code that could throw an exception needs a `try/catch` or a `.catch()`:
-  - ex. `JSON.parse()` throws an exception when the string can't be converted to valid JSON
-  - ex. `fetch()` throws an exception when there is a network error
-- the amount of the grade deduction will vary in proportion to the severity of the error
+<hr>
+
+### III-C. JS Errors
+
+1) Potential errors must be guarded against:
+    - ex. checking to see if an object is "not nil" before trying to access a property of it
+    - Code that could throw an exception needs a `try/catch` or a `.catch()`:
+      - ex. `JSON.parse()` throws an exception when the string can't be converted to valid JSON
+      - ex. `fetch()` throws an exception when there is a network error
+    - the amount of the grade deduction will vary in proportion to the severity of the error
