@@ -44,7 +44,7 @@
 
     D) App Page Improvements:
 
-        1. animated button or element letting the user know when a search is going on
+      1. animated button or element letting the user know when a search is going on
 
     E) Design & Interaction 
 
