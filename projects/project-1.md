@@ -38,7 +38,7 @@
 
 OR
 
-The App will utilize Mapbox and display location data that is returned by a web service. The app will not solely display hard-coded (or locally stored) location data
+- The App will utilize Mapbox and display location data that is returned by a web service. The app will not solely display hard-coded (or locally stored) location data
 
     C) App navigation now has “You are here cues” (ex. Bolded text, different colored background, NOT literally the words “You Are Here”). App navigation is now a component
 
