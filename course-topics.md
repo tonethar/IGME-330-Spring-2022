@@ -17,3 +17,7 @@
 1. Better JS concepts coverage
 
 - We covered these all this semester and it mostly fit. I think with more efficient assignments/HW of Ajax & Web Components we can cover it all BETTER
+
+## Demos (additional topics)
+
+- PHP Proxy Server/Web Api "Wrapper"
