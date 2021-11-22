@@ -40,13 +40,15 @@
 
 - The App will utilize Mapbox and display location data that is returned by a web service. The app will not solely display hard-coded (or locally stored) location data
 
-    C) App navigation now has “You are here cues” (ex. Bolded text, different colored background, NOT literally the words “You Are Here”). App navigation is now a component
+    C) App navigation now has "You are here cues" (ex. **bold** text or a different colored background, NOT literally the words "You Are Here")
+    
+    D) App navigation is now a web component
 
-    D) App Page Improvements:
+    E) App Page Improvements:
 
     1. animated button or element letting the user know when a search is going on
 
-    E) Design & Interaction 
+    F) Design & Interaction 
 
     1. Pleasing graphic design
     1. Users must be able to figure out how to use the app with minimal instruction
