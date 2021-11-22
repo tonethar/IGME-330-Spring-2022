@@ -43,7 +43,16 @@
 - code shall be consistently indented and "line up" so that it is readable:
   - you can use 2-spaces, 4-spaces, or tabs - it just has to be  *consistent* and *readable*
 
-### III-A. Extraneous or Unnecessary Code
+### III-A. ES6 Modules
+- In general, your HTML page will import only one JS file of `type="module"`
+  - for example, image if you had 2 files **app.js** and **my-component.js**
+  - you would import **app.js** like this -  `<script type="module" src="./src/app.js">`
+  - and then (at the top of) **app.js** would import **my-component.js** like this `import {MyComponent} from "./my-component.js";`
+  - you would NOT do this:
+    - `<script type="module" src="./src/app/js">` and `<script type="module" src="./src/my-component.js">`
+
+
+### III-B. Extraneous or Unnecessary Code
 
 - There may be grade deductions for *unnecessary* code such as:
   - unused variables or functions
