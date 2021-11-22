@@ -21,7 +21,7 @@
 
     G. (0-2) App utilizes 3 components (including the card component above)
 
-    H. (0-2) App page UI state is preserved in localStorage inside a single object literal. The localStorage key (there is only one) is unique
+    H. (0-2) App page UI state is preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is unique
 
     I. (0-2) Code files/standards: ES 6 Modules, at least 3 web components, fetch(), follows code standards, files: app.js, hamburger.js, utils.js (contains Ajax and any other factored out code), 3 **XYZ-component.js** files
 
