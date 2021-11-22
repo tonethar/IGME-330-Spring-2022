@@ -25,7 +25,7 @@
 
     I. (0-2) Code files/standards: ES 6 Modules, at least 3 web components, fetch(), follows code standards, files: app.js, hamburger.js, utils.js (contains Ajax and any other factored out code), 3 **XYZ-component.js** files
 
-J. (0-2) Follows 330 [Code Standards](./code-style.md)
+    J. (0-2) Follows 330 [Code Standards](./code-style.md)
 
 <hr>
 
