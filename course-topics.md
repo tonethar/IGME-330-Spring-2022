@@ -29,14 +29,14 @@
     - inline anonymous function wrapper
     - `e.target` and params passed as attributes
     - `this` and params passed as attributes
-1. `this` binding issue seen in Web Component event handlers - fix with:
-  - inline anonymous function wrapper
-  - `function.bind()` in constructor
-  - arrow functions as methods
-1. IIFE
-1. object and array destructuring
-1. method chaining
-1. array methods - `forEach()`, `map()`, `reduce()`, `join()`
-1. HTML string production: method chaining, template strings, `array.map()`. `array.join()`
-1. "inline logical operators" - ternary operator, short circuiting, null coalescing, optional chaining
-1. transpiling
+3. `this` binding issue seen in Web Component event handlers - fix with:
+    - inline anonymous function wrapper
+    - `function.bind()` in constructor
+    - arrow functions as methods
+4. IIFE
+5. object and array destructuring
+6. method chaining
+7. array methods - `forEach()`, `map()`, `reduce()`, `join()`
+8. HTML string production: method chaining, template strings, `array.map()`. `array.join()`
+9. "inline logical operators" - ternary operator, short circuiting, null coalescing, optional chaining
+10. transpiling
