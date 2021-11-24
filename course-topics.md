@@ -26,6 +26,11 @@
   - https://dev.to/ibrahima92/make-a-parallax-effect-with-10-lines-of-javascript-3hia
   - https://www.youtube.com/watch?v=00xjZxL8ypM
 
+## HWs
+- StartWars App
+- Statastics App
+- Blackout Poetry Maker
+
 ## JS Topics
 1. `const`, `let`, `function`, arrow functions
 2. Passing arguments in event handlers
