@@ -22,7 +22,9 @@
 
 - PHP Proxy Server/Web Api "Wrapper"
 - Interactive Adventure App - "componentize" it over time
-- Paralax? https://dev.to/ibrahima92/make-a-parallax-effect-with-10-lines-of-javascript-3hia
+- Parallax?
+  - https://dev.to/ibrahima92/make-a-parallax-effect-with-10-lines-of-javascript-3hia
+  - https://www.youtube.com/watch?v=00xjZxL8ypM
 
 ## JS Topics
 1. `const`, `let`, `function`, arrow functions
