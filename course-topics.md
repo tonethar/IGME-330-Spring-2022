@@ -1,4 +1,4 @@
-## Course Topics
+## I. Course Topics
 
 1. Add ES 6 Modules to Technobabble
 1. Ajax/XHR Review to add JSON to Technobabble
@@ -18,7 +18,7 @@
 
 - We covered these all this semester and it mostly fit. I think with more efficient assignments/HW of Ajax & Web Components we can cover it all BETTER
 
-## Demos (additional topics)
+## II. Demos (additional topics)
 
 - PHP Proxy Server/Web Api "Wrapper"
 - Interactive Adventure App - "componentize" it over time
@@ -26,12 +26,12 @@
   - https://dev.to/ibrahima92/make-a-parallax-effect-with-10-lines-of-javascript-3hia
   - https://www.youtube.com/watch?v=00xjZxL8ypM
 
-## HWs
+## III. HWs
 - StartWars App
 - Statastics App
 - Blackout Poetry Maker
 
-## JS Topics
+## IV. JS Topics
 1. `const`, `let`, `function`, arrow functions
 2. Passing arguments in event handlers
     - inline anonymous function wrapper
@@ -50,7 +50,7 @@
 10. transpiling - Node & rollup.js?
 
 
-## Links and Inspirations
+## V. Links and Inspirations
 - https://mkremins.github.io/
 - http://michaelkrzyzaniak.com
 - https://bengrosser.com
