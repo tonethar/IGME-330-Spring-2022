@@ -48,3 +48,10 @@
 8. HTML string production: method chaining, template strings, `array.map()`. `array.join()`
 9. "inline logical operators" - ternary operator, short circuiting, null coalescing, optional chaining
 10. transpiling - Node & rollup.js?
+
+
+## Links and Inspirations
+- https://mkremins.github.io/
+- http://michaelkrzyzaniak.com
+
+
