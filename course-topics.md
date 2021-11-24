@@ -25,10 +25,10 @@
 
 ## JS Topics
 1. `const`, `let`, `function`, arrow functions
-1. Passing arguments in event handlers
-  - inline anonymous function wrapper
-  - `e.target` and params passed as attributes
-  - `this` and params passed as attributes
+2. Passing arguments in event handlers
+    - inline anonymous function wrapper
+    - `e.target` and params passed as attributes
+    - `this` and params passed as attributes
 1. `this` binding issue seen in Web Component event handlers - fix with:
   - inline anonymous function wrapper
   - `function.bind()` in constructor
