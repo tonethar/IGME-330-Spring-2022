@@ -1,6 +1,6 @@
 ## I. Course Topics
 
-1. Add ES 6 Modules to Technobabble
+1. Add ES6 Modules to Technobabble
 1. Ajax/XHR Review to add JSON to Technobabble
 1. Bulma
 1. Web Components
@@ -27,9 +27,10 @@
   - https://www.youtube.com/watch?v=00xjZxL8ypM
 
 ## III. HWs
-- StartWars App
-- Statastics App
+- Star Wars App
+- Statistics App
 - Blackout Poetry Maker
+- Falling Sand? (canvas)
 
 ## IV. JS Topics
 1. `const`, `let`, `function`, arrow functions
@@ -48,6 +49,15 @@
 8. HTML string production: method chaining, template strings, `array.map()`. `array.join()`
 9. "inline logical operators" - ternary operator, short circuiting, null coalescing, optional chaining
 10. transpiling - Node & rollup.js?
+
+
+## V. Other Topics
+1. `localStorage` - covered in 235 - but I wonder if we need a demo covering how to put all the site data under a single object?
+1. Mapbox
+2. Firebase
+  - https://stackoverflow.com/questions/31423124/how-to-increment-a-record-in-firebase/69650067#69650067
+3. Passing data via `location.hash` or `location.search` - https://stackoverflow.com/questions/13509089/passing-data-from-one-web-page-to-another/66557503#66557503
+4. Routing? (prob. no time)
 
 
 ## V. Links and Inspirations
