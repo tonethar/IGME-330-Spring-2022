@@ -77,8 +77,6 @@
 - http://michaelkrzyzaniak.com
 - https://bengrosser.com
 
-<a id="code-snippets" />
-
 <hr>
 
 ## VI. Code Snippets
