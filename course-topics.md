@@ -95,7 +95,7 @@ makeSprite({
 });
 ```
 
-2) async IIFE
+2) `async` IIFE
 
 ```js
 (async () => {
