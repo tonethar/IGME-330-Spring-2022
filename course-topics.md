@@ -44,11 +44,15 @@
     - arrow functions as methods
 4. IIFE
 5. object and array destructuring
-6. method chaining
-7. array methods - `forEach()`, `map()`, `reduce()`, `join()`
-8. HTML string production: method chaining, template strings, `array.map()`. `array.join()`
-9. "inline logical operators" - ternary operator, short circuiting, null coalescing, optional chaining
-10. transpiling - Node & rollup.js?
+    - destructuring in function assignments
+7. method chaining
+8. array methods - `forEach()`, `map()`, `reduce()`, `join()`
+9. HTML string production: method chaining, template strings, `array.map()`. `array.join()`
+10. "inline logical operators" - ternary operator, short circuiting, null coalescing, optional chaining
+11. ES6 Classes & Objects
+    - `Object.seal()` in constructor
+    - prototypical inheritance
+12. transpiling - Node & rollup.js?
 
 
 ## V. Other Topics
@@ -64,5 +68,27 @@
 - https://mkremins.github.io/
 - http://michaelkrzyzaniak.com
 - https://bengrosser.com
+
+
+## VI. Code Snippets
+
+1) Destructuring with function arg assignment
+
+```js
+function makeSprite ({x=0, y=0, width=10, height=10, imageUrl} = {}) {
+	console.log(x, y, width, height, imageUrl);
+}
+
+// logs 100,200,10,10,undefined
+makeSprite({
+	x: 100,
+	y: 200,
+});
+```
+
+
+## VII. Project Notes
+
+- For Project 3, make "Good starting state" a requirement with a deduction if it's not properly done
 
 
