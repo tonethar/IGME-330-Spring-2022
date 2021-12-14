@@ -18,6 +18,8 @@
 
 - We covered these all this semester and it mostly fit. I think with more efficient assignments/HW of Ajax & Web Components we can cover it all BETTER
 
+<hr>
+
 ## II. Demos (additional topics)
 
 - PHP Proxy Server/Web Api "Wrapper"
@@ -26,11 +28,15 @@
   - https://dev.to/ibrahima92/make-a-parallax-effect-with-10-lines-of-javascript-3hia
   - https://www.youtube.com/watch?v=00xjZxL8ypM
 
+<hr>
+
 ## III. HWs
 - Star Wars App
 - Statistics App
 - Blackout Poetry Maker
 - Falling Sand? (canvas)
+
+<hr>
 
 ## IV. JS Topics
 1. `const`, `let`, `function`, arrow functions
@@ -54,6 +60,7 @@
     - prototypical inheritance
 12. transpiling - Node & rollup.js?
 
+<hr>
 
 ## V. Other Topics
 1. `localStorage` - covered in 235 - but I wonder if we need a demo covering how to put all the site data under a single object?
@@ -63,12 +70,16 @@
 3. Passing data via `location.hash` or `location.search` - https://stackoverflow.com/questions/13509089/passing-data-from-one-web-page-to-another/66557503#66557503
 4. Routing? (prob. no time)
 
+<hr>
 
 ## V. Links and Inspirations
 - https://mkremins.github.io/
 - http://michaelkrzyzaniak.com
 - https://bengrosser.com
 
+<a id="code-snippets" />
+
+<hr>
 
 ## VI. Code Snippets
 
@@ -86,6 +97,17 @@ makeSprite({
 });
 ```
 
+2) async IIFE
+
+```js
+(async () => {
+	await someAsyncFunction();
+})();
+```
+
+- https://usefulangle.com/post/248/javascript-async-anonymous-function-iife
+
+<hr>
 
 ## VII. Project Notes
 
