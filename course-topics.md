@@ -55,7 +55,7 @@
 1. `localStorage` - covered in 235 - but I wonder if we need a demo covering how to put all the site data under a single object?
 1. Mapbox
 2. Firebase
-  - https://stackoverflow.com/questions/31423124/how-to-increment-a-record-in-firebase/69650067#69650067
+    - https://stackoverflow.com/questions/31423124/how-to-increment-a-record-in-firebase/69650067#69650067
 3. Passing data via `location.hash` or `location.search` - https://stackoverflow.com/questions/13509089/passing-data-from-one-web-page-to-another/66557503#66557503
 4. Routing? (prob. no time)
 
