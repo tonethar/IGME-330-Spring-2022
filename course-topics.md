@@ -59,6 +59,7 @@
     - `Object.seal()` in constructor
     - prototypical inheritance
 12. transpiling - Node & rollup.js?
+13. module types - https://dev.to/iggredible/what-the-heck-are-cjs-amd-umd-and-esm-ikm
 
 <hr>
 
