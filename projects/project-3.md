@@ -77,6 +77,7 @@
     - an *embedded* font must be used - for example from https://fonts.google.com:
       - be cautious about using an ornamental or cursive embedded font for UI labels
       - instead, utilize the embedded font on ornamental elements, like a title or copyright notice
+      - ***NOTE: [Font awesome](https://fontawesome.com/) or similar does not count towards this requirement**
     
 3) Widgets are well labeled and follow interface conventions, for example:
     - radio buttons are for mutually exclusive options, checkboxes are for when you want to let the user choose *multiple* options --> https://delib.zendesk.com/hc/en-us/articles/203430309-Radio-button-vs-checkbox-what-s-the-difference-
