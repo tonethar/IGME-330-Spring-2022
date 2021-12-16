@@ -2,7 +2,7 @@
 
 1. Add ES6 Modules to Technobabble
 1. Ajax/XHR Review to add JSON to Technobabble
-1. Bulma
+1. Bulma (also cover Cards & Tiles?)
 1. Web Components
 1. More Ajax - Fetch/Promises
 1. P1 Prototype (& localStorage review)
