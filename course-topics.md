@@ -35,6 +35,8 @@
 - Statistics App
 - Blackout Poetry Maker
 - Falling Sand? (canvas)
+- Dice Roller?
+- Zombie Dice?
 
 <hr>
 
