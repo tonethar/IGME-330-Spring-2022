@@ -27,7 +27,8 @@
 - Parallax?
   - https://dev.to/ibrahima92/make-a-parallax-effect-with-10-lines-of-javascript-3hia
   - https://www.youtube.com/watch?v=00xjZxL8ypM
-- https://mr-easy.github.io/2017-06-26-creating-spritesheet-animation-in-html5-canvas-using-javascript/
+- SpriteSheets - https://mr-easy.github.io/2017-06-26-creating-spritesheet-animation-in-html5-canvas-using-javascript/
+- "Delta time" is important because some people get 120 FPS out of `requestAnimationFrame()` - while others get 60 FPS
 
 <hr>
 
