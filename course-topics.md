@@ -110,8 +110,9 @@ makeSprite({
 
 <hr>
 
-## VII. Project Notes
+## VII. Project & Other Notes
 
 - For Project 3, make "Good starting state" a requirement with a deduction if it's not properly done
+- From beginning of course, emphasize that creating interactive media takes *time* - and that expecting 10 to 12 hours a week of out of class work for a course is not unexpected nor unreasonable
 
 
