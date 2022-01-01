@@ -6,6 +6,11 @@
 
 ### Weekly Outline
 
+| Criteria | Weight | Your Score |
+| -------- | ------ | ---------- |
+| **A. Overall Theme/Impact** | **50** | |
+|    1. Does the app have an coherent and identifiable theme?
+
 <!---
 - [Week 01 (Aug 23) : Course Intro & Review of Basic Web App Structure](#week1)
 - [Week 02 (Aug 30) : Intro to Canvas Drawing API & Periodic Functions/Algorithmic Botany](#week2)
