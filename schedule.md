@@ -8,8 +8,14 @@
 
 | Week # | Dates | Topics |
 | -------- | ------ | ---------- |
-| **A. Overall Theme/Impact** | **50** | |
-|    1. Does the app have an coherent and identifiable theme?
+| 01 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure |
+| 02 | 01/18 & 01/20 | Course Intro & Review of Basic Web App Structure |
+| 03 | 01/25 & 01/27 | Course Intro & Review of Basic Web App Structure |
+| 04 | 02/01 & 02/03 | Course Intro & Review of Basic Web App Structure |
+| 05 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure |
+| 06 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure |
+| 07 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure |
+| 08 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure |
 
 <!---
 - [Week 01 (Aug 23) : Course Intro & Review of Basic Web App Structure](#week1)
