@@ -8,8 +8,8 @@
 
 | Week # | Dates | Topics |
 | -------- | ------ | ---------- |
-| 01 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure |
-| 02 | 01/18 & 01/20 | Course Intro & Review of Basic Web App Structure |
+| 01 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure - TechnoBabble HW I & 2, Media Querie, Code Standards |
+| 02 | 01/18 & 01/20 | Bulma CSS Framework |
 | 03 | 01/25 & 01/27 | Course Intro & Review of Basic Web App Structure |
 | 04 | 02/01 & 02/03 | Course Intro & Review of Basic Web App Structure |
 | 05 | 02/08 & 02/10 | Course Intro & Review of Basic Web App Structure |
