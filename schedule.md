@@ -18,6 +18,14 @@
 | 08 | 03/01 & 03/03 | Course Intro & Review of Basic Web App Structure |
 |    | 03/06 - 03/13 | **Spring Break**
 | 09 | 03/15 & 03/17 | Course Intro & Review of Basic Web App Structure |
+| 10 | 03/22 & 03/24 | Course Intro & Review of Basic Web App Structure |
+| 11 | 03/29 & 03/31 | Course Intro & Review of Basic Web App Structure |
+| 12 | 04/05 & 04/07 | Course Intro & Review of Basic Web App Structure |
+| 13 | 04/12 & 04/14 | Course Intro & Review of Basic Web App Structure |
+| 14 | 04/19 & 04/21 | Course Intro & Review of Basic Web App Structure |
+|    | 04/27 - 05/04 | **Final Exam Period**
+
+
 
 <!---
 - [Week 01 (Aug 23) : Course Intro & Review of Basic Web App Structure](#week1)
