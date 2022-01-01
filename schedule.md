@@ -16,7 +16,7 @@
 | 06 | 02/15 & 02/17 | Course Intro & Review of Basic Web App Structure |
 | 07 | 02/22 & 02/24 | Course Intro & Review of Basic Web App Structure |
 | 08 | 03/01 & 03/03 | Course Intro & Review of Basic Web App Structure |
-<td colspan=3>**Spring Break**</td>
+| <td colspan=3>**Spring Break**</td> |
 | 09 | 03/15 & 03/17 | Course Intro & Review of Basic Web App Structure |
 
 <!---
