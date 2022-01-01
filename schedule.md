@@ -12,10 +12,12 @@
 | 02 | 01/18 & 01/20 | Course Intro & Review of Basic Web App Structure |
 | 03 | 01/25 & 01/27 | Course Intro & Review of Basic Web App Structure |
 | 04 | 02/01 & 02/03 | Course Intro & Review of Basic Web App Structure |
-| 05 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure |
-| 06 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure |
-| 07 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure |
-| 08 | 01/11 & 01/13 | Course Intro & Review of Basic Web App Structure |
+| 05 | 02/08 & 02/10 | Course Intro & Review of Basic Web App Structure |
+| 06 | 02/15 & 02/17 | Course Intro & Review of Basic Web App Structure |
+| 07 | 02/22 & 02/24 | Course Intro & Review of Basic Web App Structure |
+| 08 | 03/01 & 03/03 | Course Intro & Review of Basic Web App Structure |
+| 08 | 03/01 & 03/03 | Spring Break |
+| 09 | 03/15 & 03/17 | Course Intro & Review of Basic Web App Structure |
 
 <!---
 - [Week 01 (Aug 23) : Course Intro & Review of Basic Web App Structure](#week1)
