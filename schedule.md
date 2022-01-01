@@ -4,9 +4,9 @@
 
 **\*\* [RIT Academic Calendar - https://www.rit.edu/calendar](https://www.rit.edu/calendar) \*\***
 
-### Weekly Outline
+### Weekly Outline (Provisional  - see myCourses for due dates) 
 
-| Criteria | Weight | Your Score |
+| Week # | Dates | Topics |
 | -------- | ------ | ---------- |
 | **A. Overall Theme/Impact** | **50** | |
 |    1. Does the app have an coherent and identifiable theme?
