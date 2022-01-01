@@ -17,7 +17,6 @@
 | 07 | 02/22 & 02/24 | Course Intro & Review of Basic Web App Structure |
 | 08 | 03/01 & 03/03 | Course Intro & Review of Basic Web App Structure |
 |    | 03/06 - 03/13 | **Spring Break**
-
 | 09 | 03/15 & 03/17 | Course Intro & Review of Basic Web App Structure |
 
 <!---
