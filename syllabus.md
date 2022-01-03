@@ -12,23 +12,22 @@
 <hr>
 
 ## III. Instructor and Class Details 
-- All class meetings are online in Zoom, see myCourses for meeting link
 
-### Sections 01-02 (Jefferson)
-- IGME-330H-01 - MW 5:00PM-6:15PM
-- IGME-330-01 - TR 3:30PM-4:45PM
-- IGME-330-02 - TR 2:00PM-3:15PM
+### Sections 01-02, 04 (Jefferson)
+- IGME-330-01 - TR 3:30PM-4:45PM - MSS 3110
+- IGME-330-02 - TR 9:30AM-10:45AM - GOL 2570
+- IGME-330-04 - TR 5:00PM-6:15PM - MSS 3110
 - Professor: Tony Jefferson  
 - Email: tony@mail.rit.edu (email is the quickest way to contact)
 - Office hours:
   - TBA
 
-### Section 03 (Bast)
-- IGME-330-03 - MW 5:00PM-6:15PM
-- Professor: Noah Bast  
-- Email: nbbigm@rit.edu (email or Slack DM are both fine)
+### Section 03 (Wheeland)
+- IGME-330-03 - TR 11:00AM-12:15PM - GOL 2570
+- Professor: Andy Wheeland  
+- Email: anwigm@rit.edu (Slack DM is *strongly* preferred)
 - Office hours:
-  - TBA (I will almost always be available after class.)
+  - Tentatively, MW 3:00PM-5:00PM
 
 <hr>
 
