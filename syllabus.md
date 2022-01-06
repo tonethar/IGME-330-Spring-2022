@@ -27,7 +27,7 @@
 - Professor: Andy Wheeland  
 - Email: anwigm@rit.edu (Slack DM is *strongly* preferred)
 - Office hours:
-  - Tentatively, MW 3:00PM-5:00PM
+  - Tentatively, MF 3:00PM-5:00PM
   - Online only through Slack/Zoom.  DM me on Slack first to get started.
 
 <hr>
