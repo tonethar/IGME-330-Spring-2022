@@ -76,6 +76,7 @@ Final course grades are determined using the following scale:
 - Project 3  - Interactive Sandbox or Game
 
 ### Exams (25%)
+- 2 or 3 written exams
 
 ### Homework (15%)
 Completing the HW and in-class exercises is essential to learning the course material. You can expect an average of one HW assignment (or "Check off", see below) per class meeting. Keep an eye on the mycourses dropboxes for the dues dates of these assignments. **Important!** - When you submit web file(s) (HTML,CSS,JavaScript) to mycourses dropboxes, they (or the folder they are contained in) must be zipped. If you do not do so, mycourses will strip out all of the CSS and JavaScript, and leave you with a non-functioning and ugly web page. Unzipped assignments will therefore usually receive a grade of zero.
