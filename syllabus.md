@@ -18,7 +18,7 @@
 - IGME-330-02 - TR 9:30AM-10:45AM - GOL 2570
 - IGME-330-04 - TR 5:00PM-6:15PM - MSS 3110
 - Professor: Tony Jefferson  
-- Email: tony@mail.rit.edu (email is the quickest way to contact)
+- Email: tony@mail.rit.edu (Slack DM works too)
 - Office hours:
   - TBA
 
