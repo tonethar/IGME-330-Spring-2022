@@ -72,8 +72,8 @@ Final course grades are determined using the following scale:
 | <65%	| F |
 
 ### Projects (50%)
-- Project 1 & 2  - Vanilla JS Web App
-- Project 3  - Interactive Sandbox or Game
+- Project 1 - Vanilla JS Web App
+- Project 2 - Interactive Sandbox or Game
 
 ### Exams (25%)
 - 2 or 3 written exams covering concepts as well as "write some code" questions
