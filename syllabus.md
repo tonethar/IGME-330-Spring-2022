@@ -41,17 +41,17 @@
   - read this [IGME 330 - Introduction to Slack](https://docs.google.com/document/d/e/2PACX-1vQqjfsmGnvlweL9-ruKtsLn1wExSF2vapG1sVFGBJullHnFvbBYtYb60U8gaE7igzDGyGxzzYCxMmON/pub) document for details.
 
 ### Course Textbook
-**Title:** *Safari HTML5 Canvas Guide*
-**Publisher:** Apple Inc.
-Free on web! 
-- HTML Version: https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/HTML-canvas-guide/Introduction/Introduction.html
-- See mycourses for the example files
-
 
 **Title:** *Mozilla Developer Network*
 **Publisher:** Mozilla Inc.
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
 - The definitive JavaScript Reference
+
+**Title:** *Safari HTML5 Canvas Guide*
+**Publisher:** Apple Inc.
+Free on web! 
+- HTML Version: https://developer.apple.com/library/safari/documentation/AudioVideo/Conceptual/HTML-canvas-guide/Introduction/Introduction.html
+- See mycourses for the example files
 
 <hr>
 
