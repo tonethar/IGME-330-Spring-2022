@@ -112,7 +112,7 @@
 
 ```js
 /**
- * This is a function that returns the sum of two provide arguments
+ * This is a function that returns the sum of the two provided arguments
  *
  * @param {number} num1 - A number param
  * @param {number} num2 - A number param
