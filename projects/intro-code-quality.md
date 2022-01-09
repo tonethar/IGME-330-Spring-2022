@@ -3,11 +3,10 @@
 
 ## Code Snippet
 
-- Try running the code below in the Chrome dev console (omitting the `'use strict';` declaration at the top)
+- Try running the code below in the Chrome dev console
 - It should 
 
 ```js
-'use strict';
 const counter = 0;
 const car = {
   'make': "Ford",
