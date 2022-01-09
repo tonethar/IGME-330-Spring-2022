@@ -98,3 +98,31 @@
       - ex. `JSON.parse()` throws an exception when the string can't be converted to valid JSON
       - ex. `fetch()` throws an exception when there is a network error
     - the amount of the grade deduction will vary in proportion to the severity of the error
+
+<hr>
+
+### IV-D. Commenting your code
+
+- Homework code DOES NOT have to be commented
+- In your projects:
+  - all functions and class methods MUST have a comment right before the declaration of the function/method that summarizes what it does
+- You might (but don;t have to) use the JSDoc syntax:
+  - https://jsdoc.app/
+  - https://devhints.io/jsdoc
+
+```js
+/**
+ * This is a function that returns the sum of two provide arguments
+ *
+ * @param {number} num1 - A number param
+ * @param {number} num2 - A number param
+ *
+ * @example
+ *
+ *     addThem(1,2)
+ */
+ 
+function addThem(num1,num2){
+    return num1 + num2;
+}
+```
