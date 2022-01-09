@@ -5,13 +5,13 @@
 - Elements of a code style that improve of readability (but not necessarily the quality):
   - consistent indenting of code blocks (2-spaces, 4-spaces, or tabs)
   - consistent use of quotes around strings (either all single-quoted, or all double-quoted)
-  - consistently 
+  - consistent spacing when declaring and assigning variables
 
 
 ## Code Snippet
 
 - Try running the code below in the Chrome dev console
-- It should run fine, but there are some issues, can you see any of them?
+- It should run fine, but there are some potential style and quality issues, can you see any of them?
 
 ```js
 const counter = 0;
