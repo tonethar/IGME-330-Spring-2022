@@ -3,7 +3,7 @@
 - For your "solo" RIT coding projects, you are the only one writing the code, so code style might not be something you think about very often
 - But when working on a group project, there will likely be many others working on the same codebase. In these cases, a consistent code *style* can improve the readability and quality of your code. Ideally, this shared code follows consistent idioms so that it appears that one person wrote it
 
-## I. Some elements of Code Style
+## I. Some elements of good JS code style
 - Elements of a code style that improve the readability of code (but not necessarily the quality):
   - consistent indenting of code blocks (2-spaces, 4-spaces, or tabs)
   - consistent use of quotes around strings (either all single-quoted, or all double-quoted)
