@@ -13,9 +13,9 @@
   - allowing (or not) "one-liner" if statements like this - `if(true) doStuff();`
   - and many others
 - Code practices that can improve quality:
-  - using "Strict equality" - `===` instead of `==` because `console.log("0" == 0); // is true` and `console.log("0" === 0); // is false`
+  - using "Strict equality" `===` instead of `==` because `console.log("0" == 0); // is true` and `console.log("0" === 0); // is false`
   - disallowing duplicate object property keys
-  - making sure that any declared varaible is actually used
+  - making sure that any declared variable is actually used
   - and many others ...
 
 <hr>
