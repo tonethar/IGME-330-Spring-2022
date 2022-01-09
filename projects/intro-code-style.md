@@ -2,6 +2,8 @@
 
 - For your "solo" RIT coding projects, you are the only one writing the code, so code style might not be something you think about very often
 - But when working on a group project, there will likely be many others working on the same codebase. In these cases, a consistent code *style* can improve the readability and quality of your code. Ideally, this shared code follows consistent idioms so that it appears that one person wrote it
+
+## I. Some elements of Code Style
 - Elements of a code style that improve the readability of code (but not necessarily the quality):
   - consistent indenting of code blocks (2-spaces, 4-spaces, or tabs)
   - consistent use of quotes around strings (either all single-quoted, or all double-quoted)
@@ -14,8 +16,9 @@
   - making sure that any declared varaible is actually used
   - and many others ...
 
+<hr>
 
-## I. Code Snippet
+## II. Code snippet to "lint"
 
 - Try running the code below in the Chrome dev console
 - It should run fine, but there are some potential style and quality issues, can you see any of them?
@@ -51,7 +54,7 @@ console.log("counter =",counter);
 
 <hr>
 
-## II. FAQ
+## III. FAQ
 
 - **Is there an easier way to lint your code that copy/pasting it into a tool like the one linked above?**
   - *Yes! One thing you can do is to set up VSCode to automatically lint your code - https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code*
