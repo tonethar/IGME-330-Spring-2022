@@ -1,7 +1,9 @@
 # JavaScript Code Style
 
 - For your "solo" RIT coding projects, you are the only one writing the code, so code style might not be something you think about very often
-- But when working on a group project, there will likely be many others working on the same codebase. In these cases, a consistent code *style* can improve the readability and quality of your code. Ideally, this shared code follows consistent idioms so that it appears that one person wrote it
+- But when working on a group project, there will likely be many others working on the same codebase:
+  - in these cases, a consistent code *style* can improve the readability and quality of your code
+  - ideally, this shared code follows consistent idioms so that it appears that one person wrote it
 
 ## I. Some elements of good JS code style
 - Elements of a code style that improve the readability of code (but not necessarily the quality):
@@ -18,8 +20,7 @@
 
 <hr>
 
-## II. Code snippet to "lint"
-
+## II. Code snippet
 - Try running the code below in the Chrome dev console
 - It should run fine, but there are some potential style and quality issues, can you see any of them?
 
@@ -45,6 +46,10 @@ console.log(`The ${car.model} is ${speed}`);
 console.log("counter =",counter);
 ```
 
+<hr>
+
+## III. "lint" the code snippet
+- What is *linting* code? - https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important
 - Now try running the code through a *linter*:
   - https://eslint.org/demo
   - tick the "impliedStrict" checkbox
@@ -54,7 +59,7 @@ console.log("counter =",counter);
 
 <hr>
 
-## III. FAQ
+## IV. FAQ
 
 - **Is there an easier way to lint your code that copy/pasting it into a tool like the one linked above?**
   - *Yes! One thing you can do is to set up VSCode to automatically lint your code - https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code*
