@@ -23,7 +23,7 @@ if(car.cylinders == 4){
   counter++;
 }
 
-if (car.model = 
+if (car.model = "Pinto") console.log("It's a Pinto");
 
 console.log(`The ${car.model} is ${speed}`);
 console.log("counter =",counter);
