@@ -1,7 +1,8 @@
 # IGME-330 - Course Code Style Requirements
 
-- Although we won't be using a linter to check out JS code in this course, there are still benefits to having a clear code style:
+- Although we won't be using a linter like ESLint to check out JS code in this course, there are still benefits to having a clear code style:
   - https://guide.meteor.com/code-style.html
+  - https://www.digitalocean.com/community/tutorials/linting-and-formatting-with-eslint-in-vs-code
 
 <hr>
 
