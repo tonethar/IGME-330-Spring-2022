@@ -12,11 +12,6 @@
 
 - Try running the code below in the Chrome dev console
 - It should run fine, but there are some issues, can you see any of them?
-- Now try running the code through a *linter*:
-  - https://eslint.org/demo
-  - tick the "impliedStrict" checkbox
-  - now tick "Enable all rules"
-  - you should see quite a few 
 
 ```js
 const counter = 0;
@@ -39,3 +34,11 @@ if (car.model = "Pinto") console.log("It's a Pinto");
 console.log(`The ${car.model} is ${speed}`);
 console.log("counter =",counter);
 ```
+
+- Now try running the code through a *linter*:
+  - https://eslint.org/demo
+  - tick the "impliedStrict" checkbox
+  - now tick "Enable all rules"
+  - you should now see quite a few suggestions on how to improve your code!
+
+
