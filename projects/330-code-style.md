@@ -106,9 +106,10 @@
 - Homework code DOES NOT have to be commented
 - In your projects:
   - all functions and class methods MUST have a comment right before the declaration of the function/method that summarizes what it does
-- You might (but don;t have to) use the JSDoc syntax:
+- You might (but don't have to) use the JSDoc commenting syntax:
   - https://jsdoc.app/
   - https://devhints.io/jsdoc
+  - JSDoc comments in concert with VSCode give you type hinting and other features
 
 ```js
 /**
