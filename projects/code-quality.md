@@ -1,7 +1,10 @@
 # Code Quality
 
 
+## Code Snippet
 
+- Try running the code below in the Chrome dev console (omitting the `'use strict';` declaration at the top)
+- It should 
 
 ```js
 'use strict';
@@ -19,6 +22,8 @@ if(car.cylinders == 4){
   speed = "not slow";
   counter++;
 }
+
+if (car.model = 
 
 console.log(`The ${car.model} is ${speed}`);
 console.log("counter =",counter);
