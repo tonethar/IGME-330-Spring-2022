@@ -54,8 +54,8 @@ console.log("counter =",counter);
   - https://eslint.org/demo
   - tick the "impliedStrict" checkbox
   - now tick "Enable all rules"
-  - you should now see quite a few suggestions on how to improve your code!
-  - try fixing them all (and unchecking a few rules here and there)
+  - you should now see quite a few "suggestions" on how to improve your code!
+  - try fixing all the errors (and unchecking a few unneeded rules here and there will also be a good idea!)
 
 <hr>
 
