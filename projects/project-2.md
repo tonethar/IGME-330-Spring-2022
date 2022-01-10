@@ -1,4 +1,4 @@
-# Project 3 - *Interactive Sandbox App of Awesomeness* (DRAFT)
+# Project 2 - *Interactive Sandbox App of Awesomeness* (DRAFT)
 
 [I. Overview](#overview)
 
