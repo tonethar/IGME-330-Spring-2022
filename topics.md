@@ -12,13 +12,14 @@ This material is review you need to do on your own - most of this is now taught 
 ## III. Web App Technologies
 - Web Components
 - Bulma CSS Framework
+- `localStorage` (235 review)
 - Transpiling between ES5 & ES6 using Node.js & Webpack
 
 ## IV. Web Sevices/Text
-- XHR review
+- `XHR` (235 review)
 - `fetch()` API and JS promises
 -  working with both unstructured and structured text
-- RitaJS
+- RitaJS Computational Text API
 
 ## V. Mapping
 - MapBox API
