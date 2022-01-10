@@ -102,7 +102,7 @@
   - [Week 13A - Cloud Data](weekly/week-13A-notes.md)
   - [Week 13B - JavaScript Topics](weekly/week-13B-notes.md)
  
-## <a id="week14">Week 14 : Catchup
+## <a id="week14">Week 14 : Catchup & Final Written Exam
   
 ## <a id="finalsweek">Finals Week Meeting
   - We will all be meeting finals week to present final projects. Check SIS for your section's meeting time and location
