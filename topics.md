@@ -11,7 +11,7 @@ This material is review you need to do on your own - most of this is now taught 
 
 ## III. Web App Technologies
 - Web Components
-- Bulma CSS Framewor
+- Bulma CSS Framework
 - Transpiling between ES5 & ES6 using Node.js & Webpack
 
 ## IV. Web Sevices/Text
