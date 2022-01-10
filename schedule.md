@@ -23,7 +23,7 @@
 | 12 | 04/05 & 04/07 | ml5 |
 | 13 | 04/12 & 04/14 | catch up |
 | 14 | 04/19 & 04/21 | catch up |
-|    | 04/27 - 05/04 | **Final Exam Period - Project 3 Due**
+|    | 04/27 - 05/04 | **Final Exam Period - Project 2 Due**
 
 
 
