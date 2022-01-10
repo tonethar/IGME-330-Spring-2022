@@ -1,7 +1,7 @@
 # IGME-330 - Spring 2022 (2215)
 Welcome to the course materials for IGME-330 - *Rich Media Interactive Development I.*
 - You should first read the [syllabus](syllabus.md)
-- Then read the course [topics & outcomes](topics.md)
+- Then read the course [topics](topics.md)
 - Then look at the semester course [schedule](schedule.md)
 - Look over the lecture notes for the [first day](./weekly/01A.md)
 - If you need some review on HTML & CSS, you can get some review here --> [IIM-Web-Review](https://github.com/tonethar/IGME-230-Master/tree/master/IIM-Web-Review)
