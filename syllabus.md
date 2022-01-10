@@ -85,7 +85,7 @@ Completing the HW and in-class exercises is essential to learning the course mat
 "Check offs" are required checkpoints or smaller HW assignments
 
 ### Attendance/Participation
-Results in a deduction from your final course average - 1 absence = no penalty, 2 = -1%, 3 = -3%, 4 = -5%, 5+ = additional -5% per absence. You can request to be excused from a class meeting for a school or career related opportunity, write us in advance of that meeting. If you can't attend class for any reason, always let us know *in advance*. 
+Results in a deduction from your final course average: 1 absence = no penalty, 2 = -1%, 3 = -3%, 4 = -5%, 5+ = additional -5% per absence. You can request to be excused from a class meeting for a school or career related opportunity, write us in advance of that meeting. If you can't attend class for any reason, always let us know *in advance*. 
 
 If we end up switching to Zoom meetings this semester. this will apply: if you are going to away from your computer for any length of time (eg. stretch legs, bathroom break and so on) let us know by typing `brb` in the Zoom chat window (just `brb`, no justification is required or desired). Otherwise you will be marked absent if you are called on and do not respond.
 
