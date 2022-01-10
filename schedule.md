@@ -1,4 +1,4 @@
-# IGME-330 - Spring 2021: Schedule
+# IGME-330 - Spring 2022: Schedule
 
 ## Contents
 
@@ -12,17 +12,17 @@
 | 02 | 01/18 & 01/20 | Bulma CSS Framework, ES6 Modules, Debugging |
 | 03 | 01/25 & 01/27 | Web Components |
 | 04 | 02/01 & 02/03 | Ajax - `fetch()` & Promises |
-| 05 | 02/08 & 02/10 | XXX |
-| 06 | 02/15 & 02/17 | Project 1 Due |
-| 07 | 02/22 & 02/24 | XXX |
-| 08 | 03/01 & 03/03 | XXX |
+| 05 | 02/08 & 02/10 | Mapbox, `localStorage` |
+| 06 | 02/15 & 02/17 | Firebase, *Project 1 Checkpoint Due* |
+| 07 | 02/22 & 02/24 | catch up |
+| 08 | 03/01 & 03/03 | *Project 1 Final Due* |
 |    | 03/06 - 03/13 | **Spring Break**
-| 09 | 03/15 & 03/17 | Project 2 Due |
-| 10 | 03/22 & 03/24 | XXX |
-| 11 | 03/29 & 03/31 | XXX |
-| 12 | 04/05 & 04/07 | XXX |
-| 13 | 04/12 & 04/14 | XXX |
-| 14 | 04/19 & 04/21 | XXX |
+| 09 | 03/15 & 03/17 | Intro Canvas API|
+| 10 | 03/22 & 03/24 | More Canvas |
+| 11 | 03/29 & 03/31 | Web Audio |
+| 12 | 04/05 & 04/07 | ml5 |
+| 13 | 04/12 & 04/14 | catch up |
+| 14 | 04/19 & 04/21 | catch up |
 |    | 04/27 - 05/04 | **Final Exam Period - Project 3 Due**
 
 
