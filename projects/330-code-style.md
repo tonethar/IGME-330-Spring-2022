@@ -44,7 +44,7 @@
     - *Q: So why is camel-casing allowed with variable names, but not with file names, function names, id names etc?*
       - *A: Because we can't use dashes in JS variable names, they would be interpreted as a minus sign*
 
-3) ES6 class names *always* begin in an uppercase letter - ex. `Class Sprite{}`
+3) ES6 class names *always* begin in an uppercase letter - ex. `class Sprite{}`
     - code shall be consistently indented and "line up" so that it is readable:
     - you can use 2-spaces, 4-spaces, or tabs - it just has to be  *consistent* and *readable*
 
