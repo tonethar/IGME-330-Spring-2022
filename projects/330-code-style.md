@@ -1,7 +1,7 @@
 # IGME-330 - Course Code Style Requirements
 
 - These rules are in effect for all IGME-330 HW assignments and projects
-- *What if some of the clas "start code" breaks these rules? You are required to FIX the code!*
+- *What if some of the class "start code" breaks these rules? You are required to FIX the code!*
 
 ## I. Web file naming conventions
 
