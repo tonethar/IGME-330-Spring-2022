@@ -61,7 +61,6 @@
 
 2) All `import` statements must be at the top of the file
 
-3) All `export` statements must be at the bottom of the file
 
 <hr>
 
