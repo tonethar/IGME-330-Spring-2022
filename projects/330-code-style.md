@@ -68,7 +68,7 @@
 
 1) There may be grade deductions for *unnecessary* code such as:
     - unused variables or functions
-    - code that doesn't do anything (ex. `"use strict"` in a module)
+    - code that doesn't do anything (ex. `"use strict"` or `window.onload=...` in a module)
     - looping through an array that always has only one element in it
     - highly *inefficient* code that could easily be simplified
     - misuse of `for` or `while` loops in such a way that the resources of the browser are taxed
