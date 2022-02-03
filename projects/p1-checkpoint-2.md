@@ -1,7 +1,7 @@
-# Project 1 - VanillaJS App of Awesomeness - DRAFT
-## Checkpoint #2 - Working Prototype - DRAFT
+# Project 1 - VanillaJS App of Awesomeness - DRAFT!
+## Checkpoint #2 - Working Prototype - DRAFT!
 
-***\*THIS DOCUMENT IS A DRAFT - IT IS NOT FINAL\****
+***\*THIS DOCUMENT IS A DRAFT! - IT IS NOT FINAL\****
 
 <hr>
 
