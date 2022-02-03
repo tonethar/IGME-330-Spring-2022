@@ -49,7 +49,7 @@
     - For now, it must state the app's name or title, and a 2 or 3 sentence description of the project. It also must have a theme related image on it (a "brand" or font awesome icon does not meet this requirement)
   - **app.html** - no specific content is required
   - **favorites.html** - no specific content is required
-  - **about.html** - this is where you will describe what API or data source the app uses, and the major features of the app. If you plan on building a similar (but vastly improved) version of your IGME-235 web app project, you must provide a link to that project
+  - **about.html** - this is where you will describe what API or data source the app uses, and the major features of the app. If you plan on building a similar (but significantly improved) version of your IGME-235 web app project, you must provide a link to that project
 - Site Structure:
   - the above site will be contained in a **330/project-1** folder on banjo and must have the following sub-directories (even if they are currently empty)
   - **src/** for JavaScript files
@@ -60,7 +60,7 @@
   - make sure that the hamburger menu is functional on all 4 pages
   - you will also need to import the JS files for your 2 web components
   - the above code and imports must be contained in a JavaScript ES6 module file
-  - you could name this file **init.js** or **loader.js or **preloader.js** etc
+  - you could name this file **init.js** or **loader.js** or **preloader.js** etc
 
 
 <hr>
