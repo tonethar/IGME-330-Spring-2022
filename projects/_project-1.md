@@ -54,7 +54,7 @@
 
 ### IV. Content Requirements - *About/Documentation page* 
 - Keep your project proposal from checkpoint #1 - and put it under a PROPOSAL subheading
-- Have the following sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-screenshots) below
+- Have the following 6 sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-screenshots) below
   - PROJECT REQUIREMENTS:
     - provide a link to this page
   - RESOURCES UTILIZED:
@@ -70,14 +70,14 @@
       - but you MUST cite resources from other courses including IGME-235 
   - API:
     - Link to the API Home, documentation, and endpoints used (but don't include your API key!)
-  - NOTEWORTHY:
+  - NOTEWORTHY: (you can leave this section blank for now)
     - Talk the project up - list the technologies you used (web components, Bulma, fetch, promises, etc)
     - Be sure to emphasize what you did outside of what we covered in class
-  - GRADING
+  - GRADING: (you can leave this blank for now)
     - Describe how you met project requirements
     - Describe how you went "above and beyond" project requirements
     - In the comments field of the dropbox, grade your Project 1 submission
-  - TO DO
+  - TO DO:  (you can leave this blank for now)
     - List any features that you would have liked to add if you had time
     - These could potentially be added to the app for Project 2, or over break/summer when you have time
 
