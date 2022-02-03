@@ -30,7 +30,7 @@
 
 ### I-C. FAQ
 - *Can I use the same API that I did for the IGME-235 Web App project?*
-  - Yes, but ...
+  - Yes, but you need to refine and improve what you did on the previous project
 
 <hr>
 
