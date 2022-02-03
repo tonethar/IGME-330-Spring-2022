@@ -66,10 +66,13 @@ For this project you are creating a JavaScript driven Web application that utili
 - Valid HTML5 (must pass validation without errors or warnings)
 - Valid CSS (must pass validation without errors or warnings)
 - Bulma CSS framework (site must be responsive & mobile friendly)
-- JS ES6 modules
+- JavaScript ES6 modules
 - Web Components (at least 4)
 - Ajax (utilizing the `fetch()` API)
-- `.localStorage` for 
+- `.localStorage` for storing app favorites and UI state
+- At least ONE of the following:
+  - Firebase (probably for populating a "Community Page")
+  - MapBox (to display locations of significance)
 
 
 <hr>
