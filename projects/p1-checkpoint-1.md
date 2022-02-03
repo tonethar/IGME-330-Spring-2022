@@ -29,6 +29,7 @@ For this project you are creating a JavaScript driven Web application that utili
 
 ### I-C. FAQ
 - *Can I use the same API that I did for the IGME-235 Web App project?*
+  - Yes, but ...
 
 <hr>
 
