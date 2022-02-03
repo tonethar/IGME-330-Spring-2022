@@ -1,4 +1,4 @@
-# Project 1 - HTML5 App of Awesomeness (DRAFT)
+# Project 1 - HTML5 App of Awesomeness
 ## Checkpoint #1 - Proposal & Mockup
 
 <hr>
