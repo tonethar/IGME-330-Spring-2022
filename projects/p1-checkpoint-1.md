@@ -99,7 +99,7 @@
   - (-5) no interface sketch/mockup present on **documentation.html** page
   - (-2) if the hamburger menu and/or navigation system do not function properly
   - (-1) point for each instance of not following code & naming standards detailed in [IGME-330 - Course Code Style Requirements](330-code-style.md)
-  - (-1) point for each other unmet requirements
+  - (-1) point for each other unmet requirement
 - This checkpoint is designed to get you started - whcih is usually the hardest thing to do whenever one is faced with a task
 - Once you have come up with your idea - this checkpoint shouldn't take too long to complete - so get 'er done! And be sure to meet ALL of the requirements
 - See myCourses dropbox for submission instructions
