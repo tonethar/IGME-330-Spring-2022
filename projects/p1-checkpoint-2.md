@@ -53,7 +53,7 @@
 
 ## IV. Content Requirements - *About/Documentation page* 
 - Keep your project proposal from checkpoint #1 - and put it under a PROPOSAL subheading
-- Have the following 6 sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-screenshots) below
+- Have the following 6 sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-sources-screenshots) below
   - PROJECT REQUIREMENTS:
     - provide a link to this page
   - RESOURCES UTILIZED:
@@ -138,7 +138,7 @@
 
 ![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/_images/p1-mobile-ss-3.png)
 
-<hr>
+<hr id="desktop-sources-screenshots">
 
 **sources.html**
 
