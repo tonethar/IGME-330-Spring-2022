@@ -5,7 +5,7 @@
 
 ## I. Introduction
 
-For this project you are creating a JavaScript driven Web application that utilizes one or more Web services.
+For this project you are creating a JavaScript driven Web application that utilizes one or more Web services and/or data sources. See a list of possible sources here - [Project 1 - Data Sources](p1-data-sources.md)
 
 
 ### I-A. Overview 
