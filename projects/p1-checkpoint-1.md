@@ -95,3 +95,4 @@
   - (-1) point for each other unmet requirements
 - This checkpoint is designed to get you started - whcih is usually the hardest thing to do whenever one is faced with a task
 - Once you have come up with your idea - this checkpoint shouldn't take too long to complete - so get 'er done! And be sure to meet ALL of the requirements
+- See myCourses dropbox for submission instructions
