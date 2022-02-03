@@ -70,7 +70,7 @@ For this project you are creating a JavaScript driven Web application that utili
 - Valid CSS (must pass validation without errors or warnings)
 - Bulma CSS framework (site must be responsive & mobile friendly)
 - JavaScript ES6 modules
-- Web Components (at least 4)
+- Web Components (at least 4 distinct ones used on project)
 - Ajax (utilizing the `fetch()` API)
 - `.localStorage` for storing app favorites and UI state
 - At least ONE of the following:
@@ -81,7 +81,7 @@ For this project you are creating a JavaScript driven Web application that utili
 <hr>
 
 ## Code quality
-- Link to course code quality link
+- [IGME-330 - Course Code Style Requirements](330-code-style.md)
 
 <hr>
 
