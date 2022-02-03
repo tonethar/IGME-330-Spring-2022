@@ -62,11 +62,15 @@
   - the above code and imports must be contained in a JavaScript ES6 module file
   - you could name this file **init.js** or **loader.js** or **preloader.js** etc
 
+<hr>
+
+## III. Code quality (applies to this and future checkpoints)
+- [IGME-330 - Course Code Style Requirements](330-code-style.md)
 
 <hr>
 
 
-## Required Technologies (in future/final deliverables)
+## IV. Required Technologies (in future/final deliverables)
 
 - Valid HTML5 (must pass validation without errors or warnings)
 - Valid CSS (must pass validation without errors or warnings)
@@ -82,17 +86,8 @@
 
 <hr>
 
-## Code quality
-- [IGME-330 - Course Code Style Requirements](330-code-style.md)
-
-<hr>
-
-## Example Screenshots
-
-<hr>
-
-## Evaluation / Rubric
+## V. Evaluation / Rubric
 
 - Grade weight is 2 HW assignments
 - This checkpoint is designed to get you started - whcih is usually the hardest thing to do whenever one is faced with a task
-- Once you have come up with your idea - this checkpoint shouldn't take too long to complete - so get 'er done!
+- Once you have come up with your idea - this checkpoint shouldn't take too long to complete - so get 'er done! And be sure to meet ALL of the requirements
