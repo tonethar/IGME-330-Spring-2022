@@ -36,7 +36,7 @@
 
 ## II. Requirements & Deliverables for this checkpoint
 
-- 4 web pages: **home.html**, **app.html**, **favorites.html**, **about.html**
+- 4 web pages: **home.html**, **app.html**, **favorites.html**, **documentation.html**
 - All web pages:
   - Must utilize the Bulma CSS framework - either something you came up with on your own, or the page that you created for HW-Bulma-1:
     - do NOT use (for example) any of our demos (SW App, Greeter with Components, etc) as a starting point
@@ -49,7 +49,7 @@
     - For now, it must state the app's name or title, and a 2 or 3 sentence description of the project. It also must have a theme related image on it (a "brand" or font awesome icon does not meet this requirement)
   - **app.html** - no specific content is required
   - **favorites.html** - no specific content is required
-  - **about.html** - this is where you will describe what API or data source the app uses, and the major features of the app. If you plan on building a similar (but significantly improved) version of your IGME-235 web app project, you must provide a link to that project
+  - **documentation.html** - this is where you will describe what API or data source the app uses, and the major features of the app. If you plan on building a similar (but significantly improved) version of your IGME-235 web app project, you must provide a link to that project
 - Site Structure:
   - the above site will be contained in a **330/project-1** folder on banjo and must have the following sub-directories (even if they are currently empty)
   - **src/** for JavaScript files
