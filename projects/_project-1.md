@@ -1,9 +1,86 @@
-# Project 1 - VanillaJS App of Awesomeness (DRAFT)
+# Project 1 - VanillaJS App of Awesomeness (THIS IS A DRAFT - IT IS NOT FINAL)
+## Checkpoint #2 - Working Prototype
 
-- Functionality: utilizes HTML/CSS/JS and a web service and does something useful
-- Web Technologies used: 
+<hr>
 
-## Project 1 Checkpoint
+## I. Content Requirements - *Home page*
+
+- Tell the user what your app does
+- Have some sort of "brand" for your page:
+  - it could be a `navbar-brand` like in the Bulma template - an image or font awesome icon
+  - it could be a stylized logo you create yourself
+- You might want to use a Bulma `hero`
+- There must be at least one image on this page (in addition to whatever appears in `navbar-brand`)
+- *Optional: Consider adding some sort interactive content or "flare" to this page - an image carousel, random quotes from happy users, etc*
+
+<hr>
+
+## II. Functional Requirements - *App page*
+
+1. You must use at least **ONE** web service API in your completed project:
+
+2. On the app page, you WILL automatically save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+    - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
+    - we are going to test this capability by typing in a search term, selecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
+    - ***\*THIS REQUIREMENT HAS BEEN DEFERRED TO [PROJECT 2](project-2.md)\****
+
+3. Other required controls - there WILL be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
+    - a search button (which doesn't count)
+    - a search term field (&lt;input>) that the user types into
+    - a pulldown (&lt;select>) that the user can use to limit the number of results
+
+    -  **So you will need at least one additional kind of control. What kind of control to use depends on what parameters the web services will allow you to search them on. Here are some ideas:**
+       - a **rating** pulldown - if we had this on the GIPHY HW then a user would be able to choose between viewing "G" and "PG" videos for example
+       - a **sort by** pulldown to allow the user to view the results sorted A->Z, Z->A, by date, etc 
+       - a **date** chooser to filter the results by date - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date
+       - **next** and **previous** buttons - another really nice option is to allow the user to "page" through large numbers of results. In the GIPHY HW did you notice that we always get the same 100 "cat" GIFs back when we search?
+         - This is because there are ***thousands*** of cat GIFs on GIPHY, and if we don't otherwise specify we will always get them returned from the web service starting at index 0, which means we always get the first 100 (index 0-99) back.
+         - We can instead write code that requests a higher starting index.
+         - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
+
+<hr>
+
+
+## III. Functional Requirements - *Favorites page*
+
+- The favorites (or lists or bookmarks) WILL be stored in `localStorage` and can be viewed on this page
+- There MUST be a be a *Delete* button that clears `localStorage` (thus removing the favorites from the page)
+- The user will probably be able to interact with the favorites in some other way - "View Next 5" and "View Previous 5" buttons etc... especially if there are a lot of favorites.
+- *Optional - the user can also sort, re-order and delete individual favorites*
+
+<hr>
+
+### IV. Content Requirements - *About/Documentation page* 
+- Keep your project proposal from checkpoint #1 - and put it under a PROPOSAL subheading
+- Have the following sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-screenshots) below
+  - PROJECT REQUIREMENTS:
+    - provide a link to this page
+  - RESOURCES UTILIZED:
+    - cite any and all resources you used on this project, the specific link, including:
+      - fonts and images
+      - reference sites - ex. developer.mozilla.org
+      - "help" sites - ex. stackoverflow.com
+      - code snippet sites - ex. CodePen or gists.github.com or copying starter code from the Bulma site etc
+      - tutorial sites - ex. w3schools.com
+      - video sites - ex. YouTube or LinkedIn Learning or Udemy
+      - blog postings etc
+    - Exception: you need not cite any IGME-330 resources/tutorials/HWs:
+      - but you MUST cite resources from other courses including IGME-235 
+  - API:
+    - Link to the API Home, documentation, and endpoints used (but don't include your API key!)
+  - NOTEWORTHY:
+    - Talk the project up - list the technologies you used (web components, Bulma, fetch, promises, etc)
+    - Be sure to emphasize what you did outside of what we covered in class
+  - GRADING
+    - Describe how you met project requirements
+    - Describe how you went "above and beyond" project requirements
+    - In the comments field of the dropbox, grade your Project 1 submission
+  - TO DO
+    - List any features that you would have liked to add if you had time
+    - These could potentially be added to the app for Project 2, or over break/summer when you have time
+
+
+## V. Rubric
 - Worth 5% of Final Grade
 - Out of 20 points
 
@@ -29,6 +106,7 @@
 
 <hr>
 
+<!--
 ## II. Project 1 Final 
 - Worth 15% of Final Grade 
 
@@ -58,6 +136,8 @@
     1. Users must know what *state* the app is in at all times
 
 <hr>
+
+-->
 
 ## ***Fall 2021 Reference***
 
