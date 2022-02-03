@@ -124,25 +124,25 @@
 
 **about.html**
 
-![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/p1-mobile-ss-1.png)
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p1-mobile-ss-1.png)
 
 <hr>
 
 **app.html**
 
-![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/p1-mobile-ss-2.png)
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p1-mobile-ss-2.png)
 
 <hr>
 
 **favorites.html**
 
-![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/p1-mobile-ss-3.png)
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p1-mobile-ss-3.png)
 
 <hr>
 
 **sources.html**
 
-![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/p1-mobile-ss-4.png)
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p1-mobile-ss-4.png)
 
 
 <hr>
