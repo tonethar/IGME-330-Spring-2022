@@ -49,7 +49,7 @@
     - For now, it must state the app's name or title, and a 2 or 3 sentence description of the project. It also must have a theme related image on it (a "brand" or font awesome icon does not meet this requirement)
   - **app.html** - no specific content is required, but some placeholder text or UI would be nice
   - **favorites.html** - no specific content is required, but some placeholder text or UI would be nice
-  - **documentation.html** - this is where you will describe what API or data source the app uses, the major features of the app, and an image that represents your planned interface for app.html and the controls that it will have (You can sketch on paper and take a picture or use a prototyping tool like Axure). If you plan on building a similar (but significantly improved) version of your IGME-235 web app project, you must provide a link to that project
+  - **documentation.html** - this is where you will describe (and link to!) what API or data source the app uses, the major features of the app, and an image that represents your planned interface for app.html and the controls that it will have (You can sketch on paper and take a picture or use a prototyping tool like Axure). If you plan on building a similar (but significantly improved) version of your IGME-235 web app project, you must provide a link to that project
 - Site Structure:
   - the above site will be contained in a **330/project-1** folder on banjo and must have the following sub-directories (even if they are currently empty)
   - **src/** for JavaScript files
