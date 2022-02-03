@@ -27,6 +27,9 @@ For this project you are creating a JavaScript driven Web application that utili
 - Checkpoint #2 due Monday 2/21/22
 - Final version due Wednesday 3/2/22
 
+### I-C. FAQ
+- *Can I use the same API that I did for the IGME-235 Web App project?*
+
 <hr>
 
 ## II. Requirements & Deliverables for this checkpoint
