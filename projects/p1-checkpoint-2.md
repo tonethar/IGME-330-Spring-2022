@@ -53,7 +53,7 @@
 
 ## IV. Content Requirements - *About/Documentation page* 
 - Keep your project proposal from checkpoint #1 - and put it under a PROPOSAL subheading
-- Have the following 6 sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-sources-screenshots) below
+- Have the following additional 6 sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-sources-screenshots) below
   - PROJECT REQUIREMENTS:
     - provide a link to this page
   - RESOURCES UTILIZED:
