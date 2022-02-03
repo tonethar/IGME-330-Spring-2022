@@ -96,7 +96,7 @@
 - Late submission will not be accepted without prior approval
 - Rubric (out of 10 points):
   - (-5) points for each missing web component, not using Bulma, missing HTML files
-  - (-5) no interface sketch/mockup present on documentation.html page
+  - (-5) no interface sketch/mockup present on **documentation.html** page
   - (-2) if the hamburger menu and/or navigation system do not function properly
   - (-1) point for each instance of not following code & naming standards detailed in [IGME-330 - Course Code Style Requirements](330-code-style.md)
   - (-1) point for each other unmet requirements
