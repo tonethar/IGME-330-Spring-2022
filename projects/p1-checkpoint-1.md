@@ -1,4 +1,7 @@
-# Project 1 - HTML5 App of Awesomeness - Checkpoint #1 (of 3) - the *Mockup*
+# Project 1 - HTML5 App of Awesomeness
+## Checkpoint #1 - the *Mockup*
+
+<hr>
 
 ## I. Introduction
 
