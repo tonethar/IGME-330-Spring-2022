@@ -52,7 +52,7 @@
 
 <hr>
 
-### IV. Content Requirements - *About/Documentation page* 
+## IV. Content Requirements - *About/Documentation page* 
 - Keep your project proposal from checkpoint #1 - and put it under a PROPOSAL subheading
 - Have the following 6 sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-screenshots) below
   - PROJECT REQUIREMENTS:
@@ -81,8 +81,74 @@
     - List any features that you would have liked to add if you had time
     - These could potentially be added to the app for Project 2, or over break/summer when you have time
 
+<hr>
 
-## V. Rubric
+## V. Screenshots
+
+<a id="desktop-screenshots"/>
+
+### VII-A. Desktop Version
+
+<hr>
+
+**about.html**
+
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/_images/p1-desktop-ss-1.png)
+
+<hr>
+
+**app.html**
+
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/_images/p1-desktop-ss-2.png)
+
+<hr>
+
+**favorites.html**
+
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/_images/p1-desktop-ss-3.png)
+
+<hr>
+
+**sources.html**
+
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/_images/p1-desktop-ss-4.png)
+
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/_images/p1-desktop-ss-4B.png)
+
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/_images/p1-desktop-ss-4C.png)
+
+<hr>
+
+### V-B. Mobile Version
+
+<hr>
+
+**about.html**
+
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/_images/p1-mobile-ss-1.png)
+
+<hr>
+
+**app.html**
+
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/_images/p1-mobile-ss-2.png)
+
+<hr>
+
+**favorites.html**
+
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/_images/p1-mobile-ss-3.png)
+
+<hr>
+
+**sources.html**
+
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/tree/main/projects/_images/_images/p1-mobile-ss-4.png)
+
+
+<hr>
+
+## VI. Rubric
 - Worth 5% of Final Grade
 - Out of 20 points
 
