@@ -94,5 +94,5 @@
 ## Evaluation / Rubric
 
 - Grade weight is 2 HW assignments
-- This checkpoint is desinged to get you started - whcih is usually the hardest thing to do whenever one is faces with a task
-- Once ypou have come up with your idea - It shouldn't take too long to do - so get 'er done!
+- This checkpoint is designed to get you started - whcih is usually the hardest thing to do whenever one is faced with a task
+- Once you have come up with your idea - this checkpoint shouldn't take too long to complete - so get 'er done!
