@@ -34,7 +34,7 @@ For this project you are creating a JavaScript driven Web application that utili
 - 4 web pages: **home.html**, **app.html**, **favorites.html**, **about.html**
 - All web pages:
   - Must utilize the Bulma CSS framework - either something you came up with on your own, or the page that you created for HW-Bulma-1:
-    - do NOT use (for example) any of our demos (SW App, Greeter with Components, etc) as a starting point)
+    - do NOT use (for example) any of our demos (SW App, Greeter with Components, etc) as a starting point
   - Must have a global navigation system - this is a navigation system that appears on every page - and it contains a "cue" to which page the user is currently on (example - bolded text, or a different colored background)
   - Must contain at least 2 web components
   - Must have a descriptive `<title>`
