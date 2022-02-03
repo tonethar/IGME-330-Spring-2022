@@ -89,6 +89,7 @@
 ## V. Evaluation / Rubric
 
 - Grade weight is 2 HW assignments
+- Late submission will not be accepted without prior approval
 - Rubric (out of 10 points):
   - (-5) points for each missing web component, not using Bulma, missing HTML files
   - (-2) if the hamburger menu and/or navigation system do not function properly
