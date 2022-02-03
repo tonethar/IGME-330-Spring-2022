@@ -9,7 +9,7 @@
 - There is a list of possible data sources here - [Project 1 - Data Sources](p1-data-sources.md)
 
 
-### I-A. Overview 
+### I-A. Overview of final version
 - Your goal is to create an application that does something useful, and is easy to use, functional, and aesthetically pleasing
 - The app should serve a purpose - i.e it should be useful to *someone*
 - It should be (or approaching) "portfolio quality" - something you would be able to show a potential employer
