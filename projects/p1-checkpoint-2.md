@@ -25,7 +25,7 @@
 
     H. (0-1) The app now utilizes 3 distinct web components (the "card" component from the App page, and the 2 web components from checkpoint #1)
 
-    I. (0-1) Follows 330 [Code Standards](./code-style.md)
+    I. (0-1) Follows 330 [Code Standards](./330-code-style.md)
 
 <hr>
 
