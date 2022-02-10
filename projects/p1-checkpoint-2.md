@@ -9,14 +9,18 @@
 - Out of 20 points
 
     A. (0-2) [Home Page](#ii-content-requirements---home-page) has required content (0-2)
+    
+    B. (0-2) [App Page](#iii-functional-requirements---app-page) functions and has a search button and a text field. For this checkpoint, you only need ONE additional filtering control
 
+    C. (0-2) [Favorites Page](#iv-functional-requirements---favorites-page) 
+    
     B. (0-2) Bulma is utilized for navigation, text, and buttons (0-2)
 
     C. (0-2) Mobile Friendly navigation with functioning hamburger menu (**hamburger.js**) on all pages
 
     D. (0-2) Home & Documentation pages have required content
 
-    E. (0-2) App page functions and has a search button and a text field, and at least one other filtering control
+
 
     F. (0-2) App page results are displayed in a "card" component 
 
@@ -45,7 +49,7 @@
 
 ## III. Functional Requirements - *App page*
 
-1. You must use at least **ONE** web service API in your completed project:
+1. You must use at least **ONE** web service API (or approved data source) in your completed project
 
 2. On the app page, you WILL automatically save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
