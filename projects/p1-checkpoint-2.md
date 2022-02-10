@@ -6,7 +6,7 @@
 <hr>
 
 ## I. Checkpoint Rubric First
-- Worth 5% of Final Grade
+- Worth 5% of Final Course Grade
 - Out of 25 points
 
     A. (2 points) - [Home Page](#ii-content-requirements---home-page) has required content
