@@ -72,7 +72,9 @@
 
 ## IV. Functional Requirements - *Favorites page*
 
-1, The favorites (or lists or bookmarks) WILL be stored in `localStorage` - in the same object literal, and under the same `abc1234-p1-settings` "key" referenced above
+1. The favorites (or lists or bookmarks) WILL be stored in `localStorage` 
+    - in the same object literal
+    - and under the same `abc1234-p1-settings` "key" referenced above
 
 2. These favorites WILL automatically appear on the page when the user first loads it
 
