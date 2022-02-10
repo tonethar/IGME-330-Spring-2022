@@ -31,9 +31,7 @@
 <hr>
 
 
-<hr>
-
-## I. Content Requirements - *Home page*
+## II. Content Requirements - *Home page*
 
 - Tell the user what your app does
 - Have some sort of "brand" for your page:
@@ -45,7 +43,7 @@
 
 <hr>
 
-## II. Functional Requirements - *App page*
+## III. Functional Requirements - *App page*
 
 1. You must use at least **ONE** web service API in your completed project:
 
@@ -70,7 +68,7 @@
 <hr>
 
 
-## III. Functional Requirements - *Favorites page*
+## IV. Functional Requirements - *Favorites page*
 
 - The favorites (or lists or bookmarks) WILL be stored in `localStorage` and can be viewed on this page
 - There MUST be a be a *Delete* button that clears `localStorage` (thus removing the favorites from the page)
@@ -79,7 +77,7 @@
 
 <hr>
 
-## IV. Content Requirements - *About/Documentation page* 
+## V. Content Requirements - *About/Documentation page* 
 - Keep your project proposal from checkpoint #1 - and put it under a PROPOSAL subheading
 - Have the following additional 6 sub-headings on your page (see the [example Desktop screenshots of sources.html](#desktop-sources-screenshots) below
   - PROJECT REQUIREMENTS:
@@ -110,11 +108,11 @@
 
 <hr>
 
-## V. Screenshots
+## VI. Sample Screenshots
 
 <a id="desktop-screenshots"/>
 
-### VII-A. Desktop Version
+### VI-A. Desktop Version
 
 <hr>
 
@@ -146,7 +144,7 @@
 
 <hr>
 
-### V-B. Mobile Version
+### VI-B. Mobile Version
 
 <hr>
 
