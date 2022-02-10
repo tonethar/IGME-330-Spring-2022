@@ -63,12 +63,12 @@
 4. Functionality: when the use clicks the button, results will be downloaded and then displayed on the screen, using a custom "card" component that was created by you
     - refer to [HW - Web Components-3](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md) and the `<sw-card>` component as an example
 
-5. On this App page, you WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+5. Every time the user clicks the search button, this App page WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's `localStorage` - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - we are going to test this capability by typing in a search term, changing a value of the 3rd control, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
     - you will store this app state in an *object literal* under a single "key" named `abc1234-p1-settings` (where `abc1234` is your "banjo id")
     - storing object literals in `localStorage` is covered here - [Web Apps 9 - WebStorage API - Storing Objects with Web Storage](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md#iii-storing-objects-with-web-storage)
 
-6. There will be a "Favorites" button that adds search results to the *Favorites page* - see below
+6. There will be a "Favorites" button that adds individual search results to the *Favorites page* - see below
 
 <hr>
 
@@ -76,10 +76,10 @@
 ## IV. Functional Requirements - *Favorites page*
 
 - The favorites (or lists or bookmarks) WILL be stored in `localStorage` - in the same object literal, and under the same `abc1234-p1-settings` "key" referenced above
-- These favorites
+- These favorites WILL automatically appear on the page when the user first loads it
 - There MUST be a be a *Delete* button that clears `localStorage` (thus removing the favorites from the page)
-- The user will probably be able to interact with the favorites in some other way - "View Next 5" and "View Previous 5" buttons etc... especially if there are a lot of favorites.
-- *Optional - the user can also sort, re-order and delete individual favorites*
+- *Optional* - if there are a lot of favorites, the user will probably be able to interact with them in some other way - "View Next 5" and "View Previous 5" buttons
+- *Optional* - the user can also sort, re-order and delete individual favorites*
 
 <hr>
 
