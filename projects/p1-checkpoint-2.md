@@ -8,7 +8,7 @@
 - Worth 5% of Final Grade
 - Out of 20 points
 
-    A. (0-2) 4 pages (Home, App, Favorites, Documentation) with required content (0-2)
+    A. (0-2) [Home Page](#ii-content-requirements---home-page) has required content (0-2)
 
     B. (0-2) Bulma is utilized for navigation, text, and buttons (0-2)
 
