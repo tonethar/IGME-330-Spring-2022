@@ -44,20 +44,20 @@
 
 ## III. Functional Requirements - *App page*
 
-1. You must use at least **ONE** web service API (or approved data source) in your completed project
+1. The app must use at least **ONE** web service API (or approved data source) in your completed project
 
-2. You will provide the user (minimally) with the following 3 controls
+2. The app WILL provide the user (minimally) with the following 3 controls
 
     - a button for searching
     - an `<input type="text">` they can type a search term into
     - you will also provide one other control for the user - for example - to filter or limit the number of results. It could be a `<select>` (which is a pulldown menu) or a `<input type="number">` (which is a number "stepper") that is used to set such a limit
     - *optionally*, you could have even more controls on this page - radio buttons, checkboxes, sliders etc - whatever makes the app more useful for the end user
 
-3. The above controls are all styled by Bulma classes - https://bulma.io/documentation/form/general/
+3. The above controls ARE ALL styled by Bulma classes - https://bulma.io/documentation/form/general/
 
-4. Functionality: when the use clicks the button, results will be downloaded and then displayed on the screen
+4. Functionality: when the use clicks the button, results WILL be downloaded and then displayed on the screen
 
-5. These results will be displayed using a custom "card" component that was created by you
+5. These results WILL be displayed using a custom "card" component that was created by you
     - refer to [HW - Web Components-3](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md) and the `<sw-card>` component as an example
 
 6. Every time the user clicks the search button, this App page WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's `localStorage` - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
@@ -65,7 +65,7 @@
     - you will store this app state in an *object literal* under a single "key" named `abc1234-p1-settings` (where `abc1234` is your "banjo id")
     - storing object literals in `localStorage` is covered here - [Web Apps 9 - WebStorage API - Storing Objects with Web Storage](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md#iii-storing-objects-with-web-storage)
 
-7. There will be a "Favorites" button that adds individual search results to the *Favorites page* - see below
+7. There WILL be a "Favorites" button that adds individual search results to the *Favorites page* - see below
 
 <hr>
 
