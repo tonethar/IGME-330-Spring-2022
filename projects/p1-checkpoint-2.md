@@ -44,7 +44,7 @@
 
 ## III. Functional Requirements - *App page*
 
-1. The app must use at least **ONE** web service API (or approved data source) in your completed project
+1. The app WILL utilize at least **ONE** web service API (or approved data source)
 
 2. The app WILL provide the user (minimally) with the following 3 controls
 
