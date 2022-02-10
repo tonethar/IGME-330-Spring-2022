@@ -25,7 +25,7 @@
 
     H. (0-2) App page UI state and app favorites are preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is uniquely named as required below
 
-    I. (0-2) Follows 330 [Code Standards](./code-style.md)
+    I. (0-1) Follows 330 [Code Standards](./code-style.md)
 
 <hr>
 
