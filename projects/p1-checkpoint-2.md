@@ -27,7 +27,7 @@
 
     I. (1 point) - Follows [IGME-330 - Course Code Style Requirements](./330-code-style.md)
     
-    J. ***Deductions*** - points will be deducted for P1 - Deliverable #1 requirements that are still not met
+    J. (***Deductions***) - points will be deducted for P1 - Deliverable #1 requirements that are still not met
 
 <hr>
 
