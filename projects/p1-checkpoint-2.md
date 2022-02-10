@@ -1,5 +1,6 @@
-# Project 1 - VanillaJS App of Awesomeness (DRAFT - will be finalized Friday before noon)
-## Checkpoint #2 - Working Prototype
+# Project 1 - VanillaJS App of Awesomeness - Checkpoint #2 - Working Prototype 
+## (DRAFT - will be finalized Friday before noon)
+
 
 <hr>
 
