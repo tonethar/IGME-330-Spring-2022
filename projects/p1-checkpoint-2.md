@@ -194,6 +194,7 @@
   - controls can have labels and/or tooltips (use the `title` attribute)
 - The app must always "let the user know what's going on" with activity indicators
   - use the `is-loading` Bulma class to get a "spinner" on a button - https://bulma.io/documentation/elements/button/
+  - use a Bulma "Indeterminate Progress Bar" - https://bulma.io/documentation/elements/progress/#indeterminate
 - The app must "fail gracefully" and errors must be communicated to the user - for example:
   - "No results found" message if a search comes back with no results
   - "Please enter a search term" if the user clicks the search button without typing anything in
