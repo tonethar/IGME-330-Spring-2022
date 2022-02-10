@@ -9,23 +9,23 @@
 - Worth 5% of Final Grade
 - Out of 25 points
 
-    A. (2 points) [Home Page](#ii-content-requirements---home-page) has required content
+    A. (2 points) - [Home Page](#ii-content-requirements---home-page) has required content
     
-    B. (8 points) [App Page](#iii-functional-requirements---app-page) requirements are met
+    B. (8 points) - [App Page](#iii-functional-requirements---app-page) requirements are met
 
-    C. (5 points) [Favorites Page](#iv-functional-requirements---favorites-page) requirements are met
+    C. (5 points) - [Favorites Page](#iv-functional-requirements---favorites-page) requirements are met
     
-    D. (3 points) [Documentation Page](#v-content-requirements---aboutdocumentation-page) has required content
+    D. (3 points) - [Documentation Page](#v-content-requirements---aboutdocumentation-page) has required content
     
-    E. (2 points) Bulma is utilized for navigation, text, buttons App UI etc throughout all 4 pages of the site
+    E. (2 points) - Bulma is utilized for navigation, text, buttons App UI etc throughout all 4 pages of the site
     
-    F. (2 points) App page UI state and app favorites are preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is uniquely named as required below
+    F. (2 points) - App page UI state and app favorites are preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is uniquely named as required below
 
-    G. (1 point) There is "mobile friendly" navigation with a functioning hamburger menu on all pages
+    G. (1 point) - There is "mobile friendly" navigation with a functioning hamburger menu on all pages
 
-    H. (1 point) The app now utilizes 3 distinct web components (the "card" component from the App page, and the 2 web components from checkpoint #1)
+    H. (1 point) - The app now utilizes 3 distinct web components (the "card" component from the App page, and the 2 web components from checkpoint #1)
 
-    I. (1 point) Follows [IGME-330 - Course Code Style Requirements](./330-code-style.md)
+    I. (1 point) - Follows [IGME-330 - Course Code Style Requirements](./330-code-style.md)
 
 <hr>
 
