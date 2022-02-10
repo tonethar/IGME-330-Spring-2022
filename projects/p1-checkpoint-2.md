@@ -3,6 +3,34 @@
 
 ***\*THIS DOCUMENT IS A DRAFT! - IT IS NOT FINAL\****
 
+
+## I. Rubric First
+- Worth 5% of Final Grade
+- Out of 20 points
+
+    A. (0-2) 4 pages (Home, App, Favorites, Documentation) with required content (0-2)
+
+    B. (0-2) Bulma is utilized for navigation, text, and buttons (0-2)
+
+    C. (0-2) Mobile Friendly navigation with functioning hamburger menu (**hamburger.js**) on all pages
+
+    D. (0-2) Home & Documentation pages have required content
+
+    E. (0-2) App page functions and has a search button and a text field, and at least one other filtering control
+
+    F. (0-2) App page results are displayed in a "card" component 
+
+    G. (0-2) App utilizes 3 components (including the card component above)
+
+    H. (0-2) App page UI state is preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is unique
+
+    I. (0-2) Code files/standards: ES 6 Modules, at least 3 web components, fetch(), follows code standards, files: app.js, hamburger.js, utils.js (contains Ajax and any other factored out code), 3 **XYZ-component.js** files
+
+    J. (0-2) Follows 330 [Code Standards](./code-style.md)
+
+<hr>
+
+
 <hr>
 
 ## I. Content Requirements - *Home page*
@@ -147,31 +175,6 @@
 
 <hr>
 
-## VI. Rubric
-- Worth 5% of Final Grade
-- Out of 20 points
-
-    A. (0-2) 4 pages (Home, App, Favorites, Documentation) with required content (0-2)
-
-    B. (0-2) Bulma is utilized for navigation, text, and buttons (0-2)
-
-    C. (0-2) Mobile Friendly navigation with functioning hamburger menu (**hamburger.js**) on all pages
-
-    D. (0-2) Home & Documentation pages have required content
-
-    E. (0-2) App page functions and has a search button and a text field, and at least one other filtering control
-
-    F. (0-2) App page results are displayed in a "card" component 
-
-    G. (0-2) App utilizes 3 components (including the card component above)
-
-    H. (0-2) App page UI state is preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is unique
-
-    I. (0-2) Code files/standards: ES 6 Modules, at least 3 web components, fetch(), follows code standards, files: app.js, hamburger.js, utils.js (contains Ajax and any other factored out code), 3 **XYZ-component.js** files
-
-    J. (0-2) Follows 330 [Code Standards](./code-style.md)
-
-<hr>
 
 <!--
 ## II. Project 1 Final 
