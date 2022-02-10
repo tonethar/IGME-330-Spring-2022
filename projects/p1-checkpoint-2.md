@@ -18,12 +18,12 @@
     D. (0-3) [Documentation Page](#v-content-requirements---aboutdocumentation-page) has required content
     
     E. (0-2) Bulma is utilized for navigation, text, and buttons etc throughout all 4 pages of the site
+    
+    F. (0-2) App page UI state and app favorites are preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is uniquely named as required below
 
-    F. (0-1) There is "mobile friendly" navigation with functioning hamburger menu on all pages
+    G. (0-1) There is "mobile friendly" navigation with functioning hamburger menu on all pages
 
-    G. (0-1) The app now utilizes 3 distinct web components (the "card" conponent from the App page, and the 2 web components from checkpoint #1)
-
-    H. (0-2) App page UI state and app favorites are preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is uniquely named as required below
+    H. (0-1) The app now utilizes 3 distinct web components (the "card" component from the App page, and the 2 web components from checkpoint #1)
 
     I. (0-1) Follows 330 [Code Standards](./code-style.md)
 
