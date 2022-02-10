@@ -82,7 +82,7 @@
 
 4. *Optional* - if there are a lot of favorites, the user will probably be able to interact with them in some other way - "View Next 5" and "View Previous 5" buttons
 
-5. *Optional* - the user can also sort, re-order and delete individual favorites*
+5. *Optional* - the user can also sort, re-order and delete individual favorites
 
 <hr>
 
