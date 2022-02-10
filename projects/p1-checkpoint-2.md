@@ -26,6 +26,8 @@
     H. (1 point) - The app now utilizes 3 distinct web components (the "card" component from the App page, and the 2 web components from checkpoint #1)
 
     I. (1 point) - Follows [IGME-330 - Course Code Style Requirements](./330-code-style.md)
+    
+    J. ***Deductions*** - points will be deducted for P1 - Deliverable #1 requirements that are still not met
 
 <hr>
 
