@@ -8,7 +8,7 @@
 - Worth 5% of Final Grade
 - Out of 20 points
 
-    A. (0-2) [Home Page](#ii-content-requirements---home-page) has required content (0-2)
+    A. (0-2) [Home Page](#ii-content-requirements---home-page) has required content
     
     B. (0-2) [App Page](#iii-functional-requirements---app-page) functions and has a search button and a text field. For this checkpoint, you only need ONE additional filtering control
 
@@ -50,6 +50,8 @@
 ## III. Functional Requirements - *App page*
 
 1. You must use at least **ONE** web service API (or approved data source) in your completed project
+
+2. You will provide the user with a Search button and a `<input type="text">` they can type a search term into. You will also provide one other type of control - for example a `<select>` (which is a pulldown menu) or a 
 
 2. On the app page, you WILL automatically save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
