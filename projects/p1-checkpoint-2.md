@@ -202,8 +202,8 @@
   - "No results found" message if a search comes back with no results
   - "Please enter a search term" if the user clicks the search button without typing anything in
 - The app must have "Impact":
-  - it does something useful, and is easy to use, functional, and aesthetically pleasing
   - it serves a purpose - i.e it should be useful to someone
+  - it is easy to use, functional, and aesthetically pleasing
   - it should be (or approaching) "portfolio quality" - something you would be able to show a potential employer
 
 
