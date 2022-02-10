@@ -12,26 +12,19 @@
     
     B. (0-8) [App Page](#iii-functional-requirements---app-page) requirements are met
 
-    C. (0-4) [Favorites Page](#iv-functional-requirements---favorites-page) requirements are met
+    C. (0-5) [Favorites Page](#iv-functional-requirements---favorites-page) requirements are met
     
-    D. (0-2) [Documentation Page](#v-content-requirements---aboutdocumentation-page) has required content
+    D. (0-3) [Documentation Page](#v-content-requirements---aboutdocumentation-page) has required content
     
-    B. (0-2) Bulma is utilized for navigation, text, and buttons (0-2)
+    E. (0-2) Bulma is utilized for navigation, text, and buttons etc throughout all 4 pages of the site
 
-    C. (0-2) Mobile Friendly navigation with functioning hamburger menu (**hamburger.js**) on all pages
+    F. (0-2) There is "mobile friendly" navigation with functioning hamburger menu (**hamburger.js**) on all pages
 
+    G. (0-2) The app now utilizes 3 distinct web components (the "card" conponent from the App page, and the 2 web componenrts from checkpoint #1)
 
+    H. (0-2) App page UI state and app favorites are preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is uniquely named as requried below
 
-
-    F. (0-2) App page results are displayed in a "card" component 
-
-    G. (0-2) App utilizes 3 components (including the card component above)
-
-    H. (0-2) App page UI state is preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is unique
-
-    I. (0-2) Code files/standards: ES 6 Modules, at least 3 web components, fetch(), follows code standards, files: app.js, hamburger.js, utils.js (contains Ajax and any other factored out code), 3 **XYZ-component.js** files
-
-    J. (0-2) Follows 330 [Code Standards](./code-style.md)
+    I. (0-2) Follows 330 [Code Standards](./code-style.md)
 
 <hr>
 
@@ -61,26 +54,32 @@
 
 3. The above controls are all styled by Bulma classes - https://bulma.io/documentation/form/general/
 
-4. Functionality: when the use clicks the button, results will be downloaded and then displayed on the screen, using a custom "card" component that was created by you
+4. Functionality: when the use clicks the button, results will be downloaded and then displayed on the screen
+
+5. These results will be displayed using a custom "card" component that was created by you
     - refer to [HW - Web Components-3](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-wc-3.md) and the `<sw-card>` component as an example
 
-5. Every time the user clicks the search button, this App page WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's `localStorage` - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+6. Every time the user clicks the search button, this App page WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's `localStorage` - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - we are going to test this capability by typing in a search term, changing a value of the 3rd control, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
     - you will store this app state in an *object literal* under a single "key" named `abc1234-p1-settings` (where `abc1234` is your "banjo id")
     - storing object literals in `localStorage` is covered here - [Web Apps 9 - WebStorage API - Storing Objects with Web Storage](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md#iii-storing-objects-with-web-storage)
 
-6. There will be a "Favorites" button that adds individual search results to the *Favorites page* - see below
+7. There will be a "Favorites" button that adds individual search results to the *Favorites page* - see below
 
 <hr>
 
 
 ## IV. Functional Requirements - *Favorites page*
 
-- The favorites (or lists or bookmarks) WILL be stored in `localStorage` - in the same object literal, and under the same `abc1234-p1-settings` "key" referenced above
-- These favorites WILL automatically appear on the page when the user first loads it
-- There MUST be a be a *Delete* button that clears `localStorage` (thus removing the favorites from the page)
-- *Optional* - if there are a lot of favorites, the user will probably be able to interact with them in some other way - "View Next 5" and "View Previous 5" buttons
-- *Optional* - the user can also sort, re-order and delete individual favorites*
+1, The favorites (or lists or bookmarks) WILL be stored in `localStorage` - in the same object literal, and under the same `abc1234-p1-settings` "key" referenced above
+
+2. These favorites WILL automatically appear on the page when the user first loads it
+
+3. There MUST be a be a *Delete* button that clears `localStorage` (thus removing the favorites from the page)
+
+4. *Optional* - if there are a lot of favorites, the user will probably be able to interact with them in some other way - "View Next 5" and "View Previous 5" buttons
+
+5. *Optional* - the user can also sort, re-order and delete individual favorites*
 
 <hr>
 
