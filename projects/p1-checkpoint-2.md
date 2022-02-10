@@ -4,7 +4,7 @@
 ***\*THIS DOCUMENT IS A DRAFT! - IT IS NOT FINAL\****
 
 
-## I. Rubric First
+## I. Checkpoint Rubric First
 - Worth 5% of Final Grade
 - Out of 20 points
 
@@ -18,11 +18,11 @@
     
     E. (0-2) Bulma is utilized for navigation, text, and buttons etc throughout all 4 pages of the site
 
-    F. (0-2) There is "mobile friendly" navigation with functioning hamburger menu (**hamburger.js**) on all pages
+    F. (0-1) There is "mobile friendly" navigation with functioning hamburger menu (**hamburger.js**) on all pages
 
-    G. (0-2) The app now utilizes 3 distinct web components (the "card" conponent from the App page, and the 2 web componenrts from checkpoint #1)
+    G. (0-1) The app now utilizes 3 distinct web components (the "card" conponent from the App page, and the 2 web componenrts from checkpoint #1)
 
-    H. (0-2) App page UI state and app favorites are preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is uniquely named as requried below
+    H. (0-2) App page UI state and app favorites are preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is uniquely named as required below
 
     I. (0-2) Follows 330 [Code Standards](./code-style.md)
 
