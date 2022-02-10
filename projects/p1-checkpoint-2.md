@@ -10,15 +10,16 @@
 
     A. (0-2) [Home Page](#ii-content-requirements---home-page) has required content
     
-    B. (0-2) [App Page](#iii-functional-requirements---app-page) functions and has a search button and a text field. For this checkpoint, you only need ONE additional filtering control
+    B. (0-8) [App Page](#iii-functional-requirements---app-page) requirements are met
 
-    C. (0-2) [Favorites Page](#iv-functional-requirements---favorites-page) 
+    C. (0-4) [Favorites Page](#iv-functional-requirements---favorites-page) requirements are met
+    
+    D. (0-2) [Documentation Page](#v-content-requirements---aboutdocumentation-page) has required content
     
     B. (0-2) Bulma is utilized for navigation, text, and buttons (0-2)
 
     C. (0-2) Mobile Friendly navigation with functioning hamburger menu (**hamburger.js**) on all pages
 
-    D. (0-2) Home & Documentation pages have required content
 
 
 
