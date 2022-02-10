@@ -109,11 +109,11 @@
   - NOTEWORTHY: (you can leave this section blank for now)
     - Talk the project up - list the technologies you used (web components, Bulma, fetch, promises, etc)
     - Be sure to emphasize what you did outside of what we covered in class
-  - GRADING: (you can leave this blank for now)
+  - GRADING: (you can leave this blank for now - ***Required with Final Submission only***)
     - Describe how you met project requirements
     - Describe how you went "above and beyond" project requirements
     - In the comments field of the dropbox, grade your Project 1 submission
-  - TO DO:  (you can leave this blank for now)
+  - TO DO:  (you can leave this blank for now - ***Required with Final Submission only***)
     - List any features that you would have liked to add if you had time
     - These could potentially be added to the app for Project 2, or over break/summer when you have time
 
