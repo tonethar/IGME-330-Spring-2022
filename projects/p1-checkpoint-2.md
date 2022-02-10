@@ -51,16 +51,19 @@
 
 1. You must use at least **ONE** web service API (or approved data source) in your completed project
 
-2. You will provide the user (minimally) with the following 3 controls:
+2. You will provide the user (minimally) with the following 3 controls - all of which are styled by Bulma classes:
 
     - a button for searching
     - an `<input type="text">` they can type a search term into
-    - you will also provide one other control which could be used - for example - to filter or limit the number of results. For example a `<select>` (which is a pulldown menu) or a `<input type="number">` (which is a number "stepper") could be used to set such a limit
+    - you will also provide one other control for the user - for example - to filter or limit the number of results. It could be a `<select>` (which is a pulldown menu) or a `<input type="number">` (which is a number "stepper") that is used to set such a limit
     - *optionally*, you could have even more controls on this page - radio buttons, checkboxes, sliders etc - whatever makes the app more useful for the end user
 
-3. On this App page, you WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
-    - 
-    - we are going to test this capability by typing in a search term, selecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
+3. When the use clicks the button, results will be downloaded and then displayed on the screen, using a custom "card" component that was created by you
+    - refer to wc-3 and the `<sw-card>` component as an example
+
+4. 
+6. On this App page, you WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+    - we are going to test this capability by typing in a search term, chnaging a value of the 3rd control, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
 
 3. Other required controls - there WILL be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
     - a search button (which doesn't count)
@@ -175,6 +178,19 @@
 
 
 <hr>
+
+## VII. Resources
+- [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) might be some helpful review on how `XHR` works, and how to pass query parameters to a web service
+
+<hr>
+
+## VIII. Think ahead to the final project deliverable ...
+- ... and get started on these requirements as soon as you can!
+- The app must have a 4th web component - `<app-navbar>`
+- The app must use `fetch()` instead of `XHR`
+- The app must use either Mapbox or Firebase
+- The app must always "let the user know what's going on" with activity indicators
+- 
 
 
 <!--
