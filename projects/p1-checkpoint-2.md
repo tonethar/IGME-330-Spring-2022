@@ -51,10 +51,15 @@
 
 1. You must use at least **ONE** web service API (or approved data source) in your completed project
 
-2. You will provide the user with a Search button and a `<input type="text">` they can type a search term into. You will also provide one other type of control - for example a `<select>` (which is a pulldown menu) or a 
+2. You will provide the user (minimally) with the following 3 controls:
 
-2. On the app page, you WILL automatically save the last term searched by the user and other UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
-    - this will also be true of the other controls on the page (&lt;select> tags, radio buttons, checkboxes etc)
+    - a button for searching
+    - an `<input type="text">` they can type a search term into
+    - you will also provide one other control which could be used - for example - to filter or limit the number of results. For example a `<select>` (which is a pulldown menu) or a `<input type="number">` (which is a number "stepper") could be used to set such a limit
+    - *optionally*, you could have even more controls on this page - radio buttons, checkboxes, sliders etc - whatever makes the app more useful for the end user
+
+3. On this App page, you WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's local storage - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+    - 
     - we are going to test this capability by typing in a search term, selecting some checkboxes, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
 
 3. Other required controls - there WILL be a MINIMUM of 3 controls that a user can use to filter and display the results. Search buttons or similar don't count towards the 3 controls. For example, [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) has these controls:
@@ -62,14 +67,6 @@
     - a search term field (&lt;input>) that the user types into
     - a pulldown (&lt;select>) that the user can use to limit the number of results
 
-    -  **So you will need at least one additional kind of control. What kind of control to use depends on what parameters the web services will allow you to search them on. Here are some ideas:**
-       - a **rating** pulldown - if we had this on the GIPHY HW then a user would be able to choose between viewing "G" and "PG" videos for example
-       - a **sort by** pulldown to allow the user to view the results sorted A->Z, Z->A, by date, etc 
-       - a **date** chooser to filter the results by date - https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/date
-       - **next** and **previous** buttons - another really nice option is to allow the user to "page" through large numbers of results. In the GIPHY HW did you notice that we always get the same 100 "cat" GIFs back when we search?
-         - This is because there are ***thousands*** of cat GIFs on GIPHY, and if we don't otherwise specify we will always get them returned from the web service starting at index 0, which means we always get the first 100 (index 0-99) back.
-         - We can instead write code that requests a higher starting index.
-         - In the GIPHY API this can be done by tracking and adding an `offset` value to the query string that is sent over to the API.
 
 <hr>
 
