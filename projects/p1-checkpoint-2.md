@@ -1,8 +1,7 @@
-# Project 1 - VanillaJS App of Awesomeness - DRAFT!
-## Checkpoint #2 - Working Prototype - DRAFT!
+# Project 1 - VanillaJS App of Awesomeness (DRAFT - will be finalized Friday before noon)
+## Checkpoint #2 - Working Prototype
 
-***\*THIS DOCUMENT IS A DRAFT! - IT IS NOT FINAL\****
-
+<hr>
 
 ## I. Checkpoint Rubric First
 - Worth 5% of Final Grade
@@ -18,9 +17,9 @@
     
     E. (0-2) Bulma is utilized for navigation, text, and buttons etc throughout all 4 pages of the site
 
-    F. (0-1) There is "mobile friendly" navigation with functioning hamburger menu (**hamburger.js**) on all pages
+    F. (0-1) There is "mobile friendly" navigation with functioning hamburger menu on all pages
 
-    G. (0-1) The app now utilizes 3 distinct web components (the "card" conponent from the App page, and the 2 web componenrts from checkpoint #1)
+    G. (0-1) The app now utilizes 3 distinct web components (the "card" conponent from the App page, and the 2 web components from checkpoint #1)
 
     H. (0-2) App page UI state and app favorites are preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is uniquely named as required below
 
