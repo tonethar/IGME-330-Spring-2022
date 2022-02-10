@@ -15,7 +15,7 @@
 
     C. (5 points) [Favorites Page](#iv-functional-requirements---favorites-page) requirements are met
     
-    D. (3 poimts) [Documentation Page](#v-content-requirements---aboutdocumentation-page) has required content
+    D. (3 points) [Documentation Page](#v-content-requirements---aboutdocumentation-page) has required content
     
     E. (2 points) Bulma is utilized for navigation, text, buttons App UI etc throughout all 4 pages of the site
     
