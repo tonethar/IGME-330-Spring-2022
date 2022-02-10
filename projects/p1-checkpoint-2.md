@@ -7,7 +7,7 @@
 
 ## I. Checkpoint Rubric First
 - Worth 5% of Final Grade
-- Out of 20 points
+- Out of 25 points
 
     A. (0-2) [Home Page](#ii-content-requirements---home-page) has required content
     
@@ -17,11 +17,11 @@
     
     D. (0-3) [Documentation Page](#v-content-requirements---aboutdocumentation-page) has required content
     
-    E. (0-2) Bulma is utilized for navigation, text, and buttons etc throughout all 4 pages of the site
+    E. (0-2) Bulma is utilized for navigation, text, buttons App UI etc throughout all 4 pages of the site
     
     F. (0-2) App page UI state and app favorites are preserved in `localStorage` inside a single object literal. The `localStorage` key (there is only one) is uniquely named as required below
 
-    G. (0-1) There is "mobile friendly" navigation with functioning hamburger menu on all pages
+    G. (0-1) There is "mobile friendly" navigation with a functioning hamburger menu on all pages
 
     H. (0-1) The app now utilizes 3 distinct web components (the "card" component from the App page, and the 2 web components from checkpoint #1)
 
