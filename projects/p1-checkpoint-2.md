@@ -243,8 +243,10 @@
 
 -->
 
+<!--
 ## ***Fall 2021 Reference***
 
 - https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/project-1.md
 - https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/project-2.md
 - https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/p1-tips.md
+-->
