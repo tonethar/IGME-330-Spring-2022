@@ -12,7 +12,7 @@
 - **Project 1 - Tips & Tricks**
 - [IGME-330 - Course Code Style Requirements](330-code-style.md) 
 
-<hr>
+<hr><hr>
 
 ## Tips & Tricks TOC:
 
