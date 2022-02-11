@@ -3,7 +3,7 @@
 
 <hr>
 
-## I. Here ae the major requirements
+## I. Here are the major requirements
 - The app must have a 4th web component - `<app-navbar>`
 - The app must use `fetch()` instead of `XHR`
 - The app must use either Mapbox or Firebase
