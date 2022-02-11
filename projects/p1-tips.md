@@ -14,7 +14,7 @@
 
 <hr>
 
-## TOC:
+## Tips & Tricks TOC:
 
 [**I - Code Tips**](#code-tips)
 
