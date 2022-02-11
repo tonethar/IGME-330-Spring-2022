@@ -1,8 +1,6 @@
 # Project 1 - Tips & Tricks
 
-
-
-<hr>
+<hr><hr>
 
 ## Project 1 Links:
 
