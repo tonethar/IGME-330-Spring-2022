@@ -2,11 +2,15 @@
 
 ## Project Links:
 
+<hr>
+
 - [Project 1 - Checkpoint #1](p1-checkpoint-1.md)
 - [Project 1 - Checkpoint #2](p1-checkpoint-2.md)
 - [Project 1 - Final Deliverable](p1-final.md)
-- [IGME-330 - Course Code Style Requirements](330-code-style.md)
-- We will keep updating this page - so check back periodically!
+- **Project 1 - Tips & Tricks**
+- [IGME-330 - Course Code Style Requirements](330-code-style.md) 
+
+<hr>
 
 ## TOC:
 
