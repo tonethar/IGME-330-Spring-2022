@@ -1,6 +1,5 @@
 # Project 1 - VanillaJS App of Awesomeness
 ## *Checkpoint #2 - Working Prototype*
-## \*\*DRAFT - will be finalized Friday before noon\*\*
 
 
 <hr>
