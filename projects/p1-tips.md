@@ -1,8 +1,10 @@
 # Project 1 - Tips & Tricks
 
-## Project Links:
+
 
 <hr>
+
+## Project Links:
 
 - [Project 1 - Checkpoint #1](p1-checkpoint-1.md)
 - [Project 1 - Checkpoint #2](p1-checkpoint-2.md)
