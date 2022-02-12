@@ -29,6 +29,8 @@
 - All project files MUST adhere to this --> [IGME-330 - Course Code Style Requirements](330-code-style.md) 
 - All `<script>` tags MUST be in the `<head>` section of the document and be of `type="module"`
 - All web components are in their own JS file. Component file names MUST match their tag name - example - the file that contains the `<sw-card>` code must be named **sw-card.js**
+- Simplify the code in your web components and eleinate any redudant code:
+  - for example, if you are just using slots and there's no JavaScript in the component, you probably don't need any of the lifecycle methods, nor do you even need a `render ()` helper method. The `template` and a `constructor()` should suffice
 - All HTML pages must pass HTML validation - this includes your web components too
   - be sure to test your **app.html** page AFTER you've loaded in some results and instantiated - for example - some `<sw-card>` component instances 
   - https://validator.w3.org/
