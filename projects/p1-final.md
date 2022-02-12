@@ -20,3 +20,10 @@
   - it serves a purpose - i.e it should be useful to someone
   - it is easy to use, functional, and aesthetically pleasing
   - it should be (or approaching) "portfolio quality" - something you would be able to show a potential employer
+
+<hr>
+
+## II. Code Standards
+- Project MUST adhere to this --> [IGME-330 - Course Code Style Requirements](330-code-style.md) 
+- All `<script>` tags MUST be in `<head>` section and be of `type="module"`
+- Component file names MUST match their tag name - example - the file that contains the `<sw-card>` code must be named **sw-card.js**
