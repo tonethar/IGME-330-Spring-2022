@@ -7,6 +7,7 @@
 - The app must have a 4th web component - `<app-navbar>`
 - The app must use `fetch()` instead of `XHR`
 - The app must use either Mapbox or Firebase
+  - If you are using Mapbox, you probably should NOT do a full-screen interface like we did in the Maps II HW. Much of the time, a smaller map, and displaying more textual information, makes sense. For example, see how Yelp handles maps - https://www.yelp.com/search?find_desc=Garbage+Plate&find_loc=Rochester%2C+NY+14604
 - The app must be easy to use, with well-labeled and obvious controls:
   - the search button is prominent, in an obvious location, stands out from the rest of the UI (give it an appropriate Bulma style for a seach button) and "looks like a button"
   - controls can have labels and/or tooltips (use the `title` attribute)
