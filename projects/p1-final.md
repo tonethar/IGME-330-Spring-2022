@@ -28,7 +28,7 @@
 - All `<script>` tags MUST be in the `<head>` section of the document and be of `type="module"`
 - Component file names MUST match their tag name - example - the file that contains the `<sw-card>` code must be named **sw-card.js**
 - All HTML pages must pass HTML validation - this includes your web components too
-  - be sure to test your **app.html** page AFTER you've loaded in some results and instantiated - for example - some `<sw-card>` instances 
+  - be sure to test your **app.html** page AFTER you've loaded in some results and instantiated - for example - some `<sw-card>` component instances 
   - https://validator.w3.org/
 - All CSS must pass CSS validation
   - https://jigsaw.w3.org/css-validator/
