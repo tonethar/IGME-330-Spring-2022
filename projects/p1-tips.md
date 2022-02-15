@@ -140,11 +140,11 @@ import * as "utils" from './utils.js';
 
 ### II-C. Creating a `<p1-nav>` component
 
-- This would be a very useful component (not required, but it would be a good one to implement), because all of that `<nav>` HTML is repeated on each of your P1 pages (at least 4 times!):
+- This is required for the final version of Project 1, and is very useful because all of that `<nav>` HTML is repeated on each of your P1 pages (at least 4 times!):
   - But you will also need to move the "hamburger JS" from **loader.js** to your component
   - Hint: in the component constructor, initialize `this.burgerIcon` and `this.navbarMenu` and make them *properties* of the `<p1-nav>` component
-  - Reminder: don’t forget to `<link>` to the Bulma library at the top of your component HTML
-  - Hint: a `currentpage` attribute would be really helpful - then you can (for example) make the current page name **bold** - so that the user has an additional "where am I?" cue 
+  - Reminder: don't forget to `<link>` to the Bulma library at the top of your component HTML
+  - Hint: a `currentpage` attribute would be really helpful - then you can (for example) make the current page name **bold** - so that the user has an additional (and required) "where am I?" cue 
 
 <hr>
  
@@ -194,7 +194,6 @@ import * as "utils" from './utils.js';
 
 ### V-A. App Usability
 
-- Each page must have "you are here" cues
 - "Let the user know what's going on"
 
 ### V-B. Spelling
