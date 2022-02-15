@@ -1,7 +1,18 @@
 # Project 1 - HTML5 App of Awesomeness (DRAFT)
 ## Final Deliverable
 
-<hr>
+<hr><hr>
+
+## Project 1 Links:
+
+- [Project 1 - Checkpoint #1](p1-checkpoint-1.md)
+- [Project 1 - Checkpoint #2](p1-checkpoint-2.md)
+- **Project 1 - Final Deliverable**
+- [Project 1 - Tips & Tricks](p1-tips.md)
+- [IGME-330 - Course Code Style Requirements](330-code-style.md) 
+
+<hr><hr>
+
 
 ## I. Here are the major requirements
 - The app must have a 4th web component - `<app-navbar>`
