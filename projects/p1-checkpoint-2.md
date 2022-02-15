@@ -1,8 +1,16 @@
 # Project 1 - VanillaJS App of Awesomeness
 ## *Checkpoint #2 - Working Prototype*
 
+<hr><hr>
 
-<hr>
+- [Project 1 - Checkpoint #1](p1-checkpoint-1.md)
+- **Project 1 - Checkpoint #2**
+- [Project 1 - Final Deliverable](p1-final.md)
+- [Project 1 - Tips & Tricks](p1-tips.md)
+- [IGME-330 - Course Code Style Requirements](330-code-style.md) 
+
+
+<hr><hr>
 
 ## I. Checkpoint Rubric First
 - Worth 5% of Final Course Grade
