@@ -100,10 +100,10 @@ if (burgerIcon) burgerIcon.onclick = () => navbarMenu.classList.toggle("is-activ
 
 **app.js**
 ```js
-// first style - specify what you want to import
+// first - specify what you want to import
 import {loadDataFetch,calcRating} from './utils.js';
 
-// second style - import everything that was exported under the `utils` namespace
+// second - import everything that was exported under the `utils` namespace
 import * as "utils" from './utils.js';
 ```
 
