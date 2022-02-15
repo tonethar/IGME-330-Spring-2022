@@ -3,6 +3,8 @@
 
 <hr><hr>
 
+## Project 1 Links:
+
 - **Project 1 - Checkpoint #1**
 - [Project 1 - Checkpoint #2](p1-checkpoint-2.md)
 - [Project 1 - Final Deliverable](p1-final.md)
