@@ -144,7 +144,7 @@
 
 **app.html**
 
-![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p1-desktop-ss-2.png)
+![screenshot](_images/p1-desktop-ss-2.png)
 
 <hr>
 
