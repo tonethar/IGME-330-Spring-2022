@@ -152,12 +152,18 @@
 - "Card" Component:
   - this has the required card component to display each results
   - each card has a "Favorite Me!" button that adds that card to the favorites list
+- Other Components:
+  - each page also has a "header" and a "footer" component
+  - in this checkpoint you are required to have a minimum of 3 distinct component classes - the "card component" above and two other components
 
 ![screenshot](_images/p1-desktop-ss-2.png)
 
 <hr>
 
 **favorites.html**
+- The favorites are shown automatically when the user comes to the page
+- The "Clear All Favorites" button is required
+- The "Clear All App Preferences" button is NOT required 
 
 ![screenshot](_images/p1-desktop-ss-3.png)
 
