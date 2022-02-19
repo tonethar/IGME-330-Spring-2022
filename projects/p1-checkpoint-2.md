@@ -138,6 +138,8 @@
 
 **about.html**
 
+- Note: The "Home" text should be **bold** in this screenshot!
+
 ![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p1-desktop-ss-1.png)
 
 <hr>
