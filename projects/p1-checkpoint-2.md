@@ -140,6 +140,8 @@
 
 **about.html**
 
+- Note that the nav bar has a "you are here" cue - the current page name is in **bold** text. This was a checkpoint #1 requirement, and still needs to be done for checkpoint #2.
+
 ![screenshot](_images/p1-desktop-ss-1.png)
 
 <hr>
