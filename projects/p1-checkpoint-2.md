@@ -138,8 +138,6 @@
 
 **about.html**
 
-- Note: The "Home" text in the navbar should be **bold** in this screenshot!
-
 ![screenshot](_images/p1-desktop-ss-1.png)
 
 <hr>
