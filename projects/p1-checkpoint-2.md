@@ -167,7 +167,7 @@
 - The favorites (as cards) are shown automatically when the user comes to the page
 - The "Clear All Favorites" button is required
 - The "Clear All App Preferences" button is NOT required 
-- To display the favorites, I am using a slightly modified duplicate of **app.html**'s "Card" Component (i.e. got rid of favorites button)
+- To display the favorites, I am using a slightly modified duplicate of **app.html**'s "Card" Component (i.e. got rid of "Favorite Me" button)
 - *Note that for this checkpoint you are not required to delete individual favorites, you merely have to give the user the option to delete them ALL*
 
 ![screenshot](_images/p1-desktop-ss-3.png)
