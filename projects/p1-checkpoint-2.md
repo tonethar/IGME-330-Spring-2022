@@ -144,13 +144,19 @@
 
 **app.html**
 
+- This has the 3 required controls:
+  - a `<select>` for choosing a dog breed (most of you will have a text input instead)
+  - a `<select>` for choosing a `limit` on the maximum number of results you want
+  - a search `<button>` 
+  - the 4th control - the "Clear All Results!" button, is NOT required
+
 ![screenshot](_images/p1-desktop-ss-2.png)
 
 <hr>
 
 **favorites.html**
 
-![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p1-desktop-ss-3.png)
+![screenshot](_images/p1-desktop-ss-3.png)
 
 <hr id="desktop-sources-screenshots">
 
@@ -164,6 +170,7 @@
 
 <hr>
 
+<!--
 ### VI-B. Mobile Version
 
 <hr>
@@ -190,8 +197,11 @@
 
 ![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p1-mobile-ss-4.png)
 
-
 <hr>
+
+-->
+
+
 
 ## VII. Resources
 - [GIF Finder](https://github.com/tonethar/IGME-230-Master/blob/master/notes/HW-gif-finder.md) might be some helpful review on how `XHR` works, and how to pass query parameters to a web service
