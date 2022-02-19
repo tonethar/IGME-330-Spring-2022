@@ -154,6 +154,7 @@
 - "Card" Component:
   - this has the required card component to display each results
   - each card has a "Favorite Me!" button that adds that card to the favorites list
+  - the styles for this card were pulled directly from Bulma's site - https://bulma.io/documentation/components/card/#examples
 - Other Components:
   - each page also has a "header" and a "footer" component
   - in this checkpoint you are required to have a minimum of 3 distinct component classes - the "card component" above and two other components
@@ -163,9 +164,11 @@
 <hr>
 
 **favorites.html**
-- The favorites are shown automatically when the user comes to the page
+- The favorites (as cards) are shown automatically when the user comes to the page
 - The "Clear All Favorites" button is required
 - The "Clear All App Preferences" button is NOT required 
+- To display the favorites, I am using a slightly modified duplicate of **app.html**'s "Card" Component (i.e. got rid of favorites button)
+- *Note that for this checkpoint you are not required to delete individual favorites, you merely have to give the user the option to delete them ALL*
 
 ![screenshot](_images/p1-desktop-ss-3.png)
 
