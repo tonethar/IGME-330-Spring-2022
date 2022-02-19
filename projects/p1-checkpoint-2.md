@@ -149,6 +149,9 @@
   - a `<select>` for choosing a `limit` on the maximum number of results you want
   - a search `<button>` 
   - the 4th control - the "Clear All Results!" button, is NOT required
+- "Card" Component:
+  - this has the required card component to display each results
+  - each card has a "Favorite Me!" button that adds that card to the favorites list
 
 ![screenshot](_images/p1-desktop-ss-2.png)
 
