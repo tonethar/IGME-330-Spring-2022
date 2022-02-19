@@ -138,7 +138,7 @@
 
 **about.html**
 
-- Note: The "Home" text should be **bold** in this screenshot!
+- Note: The "Home" text in the navbar should be **bold** in this screenshot!
 
 ![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p1-desktop-ss-1.png)
 
@@ -165,7 +165,8 @@
 
 <hr id="desktop-sources-screenshots">
 
-**sources.html**
+**documentation.html**
+- Note: The "Documentation" text in the navbar should be **bold** in this screenshot!
 
 ![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p1-desktop-ss-4.png)
 
