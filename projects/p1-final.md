@@ -78,7 +78,19 @@
 
 <hr>
 
-## III, Rubric (coming soon!)
+## III. Screenshots
+
+## V. Examples
+
+**Community Page**
+
+![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p2-example-1.png)
+
+- Note the limit of 10 community favorites being displayed at once - you will probably want to do something similar
+
+<hr>
+
+## IV. Rubric (coming soon!)
 
 - "Impact" is weighed heavily 
 - All requirements from previous checkpoints are still in effect, and you will lose points for not meeting them
