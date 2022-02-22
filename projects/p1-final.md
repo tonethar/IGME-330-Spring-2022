@@ -14,19 +14,21 @@
 <hr><hr>
 
 
-## I. Here are the major requirements
+## I. Requirements
 
-1) Every time the user clicks the search button, this App page WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's `localStorage` - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
+1) Everything from the prevous checkpoints is still required - 4 pages (and probabbly one mpore for this version), global navigations system, uses Bulma, uses a web service or data source and so on.
+
+2) Every time the user clicks the search button, this App page WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's `localStorage` - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - we are going to test this capability by typing in a search term, changing a value of the 3rd control, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
     - you will store this app state in an *object literal* under a single "key" named `abc1234-p1-settings` (where `abc1234` is your "banjo id")
     - storing object literals in `localStorage` is covered here - [Web Apps 9 - WebStorage API - Storing Objects with Web Storage](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md#iii-storing-objects-with-web-storage)
     - we also covered it in the [Week 6A `localStorage` demo](../weekly/06A.md#iv-localstorage-demo)
 
-2) The app must have a 4th web component - and it must be `<app-navbar>` - this navbar must have "you are here" cues such as bold text
+3) The app must have a 4th web component - and it must be `<app-navbar>` - this navbar must have "you are here" cues such as bold text
 
-3) The app must use `fetch()` instead of `XHR`
+4) The app must use `fetch()` instead of `XHR`
 
-4) The app must use either Mapbox or Firebase:
+5) The app must use either Mapbox or Firebase:
   - If you are using Mapbox, you probably should NOT do a full-screen interface like we did in the Maps II HW. Much of the time, a smaller map, and displaying more textual information, makes sense. For example, see how Yelp handles maps - https://www.yelp.com/search?find_desc=Garbage+Plate&find_loc=Rochester%2C+NY+14604
     - you MUST have markers in the map - these will likely show a user's search results
     - the markers MUST be clickable and display useful information
@@ -43,20 +45,20 @@
       - Individual data - a user's favorites and other user data (such as the last term searched by that user and other UI state) are still stored in the browser's local storage and displayed on your favorites.html page
       - **community.html** will shows favorites (or other data) for ALL of the users
 
-5) The app must be easy to use, with well-labeled and obvious controls:
+6) The app must be easy to use, with well-labeled and obvious controls:
     - the search button is prominent, in an obvious location, stands out from the rest of the UI (give it an appropriate Bulma style for a seach button) and "looks like a button"
     - controls should have labels and/or tooltips (use the `title` attribute)
 
-6) The app must always "let the user know what's going on" with activity indicators:
+7) The app must always "let the user know what's going on" with activity indicators:
     - use the `is-loading` Bulma class to get a "spinner" on a button - https://bulma.io/documentation/elements/button/
     - use a Bulma "Indeterminate Progress Bar" - https://bulma.io/documentation/elements/progress/#indeterminate
     - if a search result on a card is *favorited*, then the "Favorite Me!" button should change state to indicate that particular result cannot be favorited again
 
-7) The app must "fail gracefully" and errors must be communicated to the user - for example:
+8) The app must "fail gracefully" and errors must be communicated to the user - for example:
     - "No results found" message if a search comes back with no results
     - "Please enter a search term" if the user clicks the search button without typing anything in
 
-8) The app must have "Impact":
+9) The app must have "Impact":
     - it serves a purpose - i.e it should be useful to someone
     - it is easy to use, functional, and aesthetically pleasing
     - it should be (or approaching) "portfolio quality" - something you would be able to show a potential employer
@@ -78,9 +80,21 @@
 
 <hr>
 
-## III. Screenshots
+## III. Demo Video
 
-## V. Examples
+- A 1 to 2-minute narrated demo video of the completed project is required
+- You can post it to YouTube & put the URL in the dropbox comments field
+- If you decide to upload a video file instead, it must be in the MP4 format
+- The easiest way to record a demo video is to use Zoom - here is a 2-minute video on how to do this: https://www.youtube.com/watch?v=D617OXKhSYw
+  - another popular option for creating videos is [OBS](https://obsproject.com/download)
+  - don't forget to "Share Screen" so that I can see you interacting with the project
+  - don't forget to record your narration too, and be sure to use a better microphone than the one that came with your laptop `:-)`
+- Please don't stress out over this requirement - I am the only one who will see the video - I won't be sharing or posting these
+- **10% deducted from project 1 grade if this video requirement is not completed**
+
+<hr>
+
+## IV. Screenshots
 
 **Community Page**
 
