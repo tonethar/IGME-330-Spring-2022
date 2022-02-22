@@ -28,8 +28,20 @@
 
 4) The app must use either Mapbox or Firebase:
   - If you are using Mapbox, you probably should NOT do a full-screen interface like we did in the Maps II HW. Much of the time, a smaller map, and displaying more textual information, makes sense. For example, see how Yelp handles maps - https://www.yelp.com/search?find_desc=Garbage+Plate&find_loc=Rochester%2C+NY+14604
+    - you MUST have markers in the map - these will likely show a user's search results
+    - the markers MUST be clickable and display useful information
+    - there MUST be map controls for the user
+    - new searches will probably wipe out "old" markers from previous searches
+    - if you want to add layers to your map, see the Mapbox-III - Virus Map extra credit assignment
   - If you are using Firebase, you will probably be meeting that requirement with a **"Community"** page, which shows the favorites of ALL of the app's users
   - We are covering Firebase on 7B and 8A
+  - You must to save some sort of web site data to "the cloud" using Firebase (typed in user search terms, favorited Pokemon, etc):
+    - [2 - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md) covers how to save data to the cloud using Firebase
+  - You must add a community.html page that will display at least some of this data to your users
+    - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md) covers how to read data from the cloud using Firebase
+  - Important Note: 
+    - Individual data - a user's favorites and other user data (such as the last term searched by that user and other UI state) are still stored in the browser's local storage and displayed on your favorites.html page
+    - **community.html** will shows favorites (or other data) for ALL of the users
 
 5) The app must be easy to use, with well-labeled and obvious controls:
   - the search button is prominent, in an obvious location, stands out from the rest of the UI (give it an appropriate Bulma style for a seach button) and "looks like a button"
@@ -38,7 +50,7 @@
 6) The app must always "let the user know what's going on" with activity indicators:
   - use the `is-loading` Bulma class to get a "spinner" on a button - https://bulma.io/documentation/elements/button/
   - use a Bulma "Indeterminate Progress Bar" - https://bulma.io/documentation/elements/progress/#indeterminate
-  - if a search result on a card is *favorited*, then the "Favorite Me!" button should change state to indicate that particular result can not be favorited again
+  - if a search result on a card is *favorited*, then the "Favorite Me!" button should change state to indicate that particular result cannot be favorited again
 
 7) The app must "fail gracefully" and errors must be communicated to the user - for example:
   - "No results found" message if a search comes back with no results
