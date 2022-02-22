@@ -69,3 +69,4 @@
 ## III, Rubric (coming soon!)
 
 - "Impact" is weighed heavily 
+- All requirements from previous checkpoints are still in effect, and you will lose points for not meeting them
