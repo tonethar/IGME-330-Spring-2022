@@ -90,7 +90,64 @@
 
 <hr>
 
-## IV. Rubric (coming soon!)
+## IV. Rubric (DRAFT - still needs tweaking/simplification)
 
-- "Impact" is weighed heavily 
-- All requirements from previous checkpoints are still in effect, and you will lose points for not meeting them
+- Note: All requirements from previous checkpoints are still in effect, and you will lose points for not meeting them
+
+Your project will be graded on the following criteria:
+
+| Criteria | Weight | Your Score |
+| -------- | ------ | ---------- |
+| **A. Functionality - App & Favorites Pages** | **40** | |
+|    1. App Page implements all required functional requirements
+|    2. App Page saves/restores last search term and other UI *state*   | |
+|    3. App Page has required controls | |
+|    4. Favorites Page uses local storage to display favorites  | |
+|    5. Favorites Page has required "Delete Button"  | |
+|    - *Web Service does not work (App Page)* | *(-30)* |
+|    - *Does not save/restore UI state (App Page)  | *(-10)* |
+|    - *Missing required # of controls (App Page)* | *(-10 each)* |
+|    - *Favorites not stored in localstorage (Favorites Page)* | *(-15)* |
+|    - *Missing Favorites "Delete" button (Favorites Page)* | *(-5)* |
+| **B. Content - Home & Documentation Pages** | **10** | |
+|    1. Required content is present on Home & Documentation Pages | |
+| **C. Design & Interaction** | **20** | |
+|    1. Global Navigation System with "you are here" cues: | |
+|    2. Pleasing graphic design (embedded font, Bulma, mobile friendly) | |
+|    3. Widgets are well labeled and follow interface conventions | |
+|    4. User errors must be handled gracefully | |
+|    5. Users must be able to figure out how to use the app with minimal instruction | |
+|    6. The *state* the application is in is obvious | |
+|    - *Missing "state" cues like status text or "spinners"* | *(-5)* |
+|    - *Missing embedded font* | *(-5)* |
+|    - *Bulma not used or utilized ineffectively* | *(-20/-?)* |
+|    - *Interface looks "amateurish"  or like GIF Finder HW* | *(up to -15)* |
+|    - *Widgets NOT well labeled/do not follow interface conventions* | *(-?)* |
+|    - *User errors NOT handled gracefully* | *(-?)* |
+|    - *App NOT intuitive to use* | *(-?)* |
+|    - *App state NOT obvious* | *(-?)* |
+| **D. HTML/CSS/Media**  | **10** | |
+|    1. Valid HTML | |
+|    2. Valid CSS | |
+|    3. Images properly optimized | |
+|    - *Fails HTML Validation* | *(-5)* |
+|    - *Fails CSS Validation* | *(-5)* |
+|    - *Most CSS is NOT in an external stylesheet* | *(-5)* |
+|    - *Images larger than 100KB* | *(-2 each)* |
+| **E. Code**  | | |
+|    - *ES6 Module pattern not used* | *(-20)* |
+|    - *`fetch()` not used* | *(-20)* |
+|    - *Code Conventions NOT followed* | *(-1 to -5 per incident)* |
+|    - *Code shows errors in console* | *(-5 per incident)* |
+|    - *App does not function on banjo and/or locally* | *(-10 to ?)* |
+|    - *App has fewer than 3 web components* | *(-5 each)* |
+|    - *Web component NOT in its own JS file* | *(-5)* |
+| **F. Impact**  | **20** | |
+|    - If the app meets the requirements above, we will award a 10% in this category, which means the base overall grade is 90% | |
+|    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
+|    - *App UI design goes beyond what we did in class* | *(+1 to +10)* |
+|    - *App is "portfolio quality" (or nearly so)* | *(+1 to +10)* |
+| **Maximum Possible Total Points** | **100** | |
+| **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
+| *Deduction if required prototype was not submitted to dropbox on time* | *(-10)* | |
+| *Deduction if video is not submitted to dropbox on time* | *(-10)* | |
