@@ -163,5 +163,5 @@ Your project will be graded on the following criteria:
 |    - *App is "portfolio quality" (or nearly so)* | *(+1 to +10)* |
 | **Maximum Possible Total Points** | **100** | |
 | **Deductions** | **&darr; Don't lose points for any of these! &darr;** | |
-| *Deduction if required prototype was not submitted to dropbox on time* | *(-10)* | |
+| *Deduction if working version no submitted to dropbox on time* | *(-10)* | |
 | *Deduction if video is not submitted to dropbox on time* | *(-10)* | |
