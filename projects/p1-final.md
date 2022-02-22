@@ -22,7 +22,7 @@
     - storing object literals in `localStorage` is covered here - [Web Apps 9 - WebStorage API - Storing Objects with Web Storage](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md#iii-storing-objects-with-web-storage)
     - we also covered it in the [Week 6A `localStorage` demo](../weekly/06A.md#iv-localstorage-demo)
 
-2) The app must have a 4th web component - and it must be `<app-navbar>` - the navbar must have "you are here" cues such as bold text
+2) The app must have a 4th web component - and it must be `<app-navbar>` - this navbar must have "you are here" cues such as bold text
 
 3) The app must use `fetch()` instead of `XHR`
 
@@ -38,6 +38,7 @@
 6) The app must always "let the user know what's going on" with activity indicators:
   - use the `is-loading` Bulma class to get a "spinner" on a button - https://bulma.io/documentation/elements/button/
   - use a Bulma "Indeterminate Progress Bar" - https://bulma.io/documentation/elements/progress/#indeterminate
+  - if a search result on a card is *favorited*, then the "Favorite Me!" button should change state to indicate that particular result can not be favorited again
 
 7) The app must "fail gracefully" and errors must be communicated to the user - for example:
   - "No results found" message if a search comes back with no results
@@ -66,3 +67,5 @@
 <hr>
 
 ## III, Rubric (coming soon!)
+
+- "Impact" is weighed heavily 
