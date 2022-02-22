@@ -44,22 +44,22 @@
       - **community.html** will shows favorites (or other data) for ALL of the users
 
 5) The app must be easy to use, with well-labeled and obvious controls:
-  - the search button is prominent, in an obvious location, stands out from the rest of the UI (give it an appropriate Bulma style for a seach button) and "looks like a button"
-  - controls should have labels and/or tooltips (use the `title` attribute)
+    - the search button is prominent, in an obvious location, stands out from the rest of the UI (give it an appropriate Bulma style for a seach button) and "looks like a button"
+    - controls should have labels and/or tooltips (use the `title` attribute)
 
 6) The app must always "let the user know what's going on" with activity indicators:
-  - use the `is-loading` Bulma class to get a "spinner" on a button - https://bulma.io/documentation/elements/button/
-  - use a Bulma "Indeterminate Progress Bar" - https://bulma.io/documentation/elements/progress/#indeterminate
-  - if a search result on a card is *favorited*, then the "Favorite Me!" button should change state to indicate that particular result cannot be favorited again
+    - use the `is-loading` Bulma class to get a "spinner" on a button - https://bulma.io/documentation/elements/button/
+    - use a Bulma "Indeterminate Progress Bar" - https://bulma.io/documentation/elements/progress/#indeterminate
+    - if a search result on a card is *favorited*, then the "Favorite Me!" button should change state to indicate that particular result cannot be favorited again
 
 7) The app must "fail gracefully" and errors must be communicated to the user - for example:
-  - "No results found" message if a search comes back with no results
-  - "Please enter a search term" if the user clicks the search button without typing anything in
+    - "No results found" message if a search comes back with no results
+    - "Please enter a search term" if the user clicks the search button without typing anything in
 
 8) The app must have "Impact":
-  - it serves a purpose - i.e it should be useful to someone
-  - it is easy to use, functional, and aesthetically pleasing
-  - it should be (or approaching) "portfolio quality" - something you would be able to show a potential employer
+    - it serves a purpose - i.e it should be useful to someone
+    - it is easy to use, functional, and aesthetically pleasing
+    - it should be (or approaching) "portfolio quality" - something you would be able to show a potential employer
 
 <hr>
 
