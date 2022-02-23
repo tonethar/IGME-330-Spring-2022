@@ -96,6 +96,15 @@
 
 ## IV. Screenshots
 
+**App Page**
+
+![screenshot](_images/p1-final-ss-2.png)
+
+**Favorites Page**
+
+![screenshot](_images/p1-final-ss-3.png)
+
+
 **Community Page**
 
 ![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p2-example-1.png)
