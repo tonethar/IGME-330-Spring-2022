@@ -46,10 +46,12 @@
       - **community.html** will shows favorites (or other data) for ALL of the users
 
 6) The app must be easy to use, with well-labeled and obvious controls:
-    - the search button is prominent, in an obvious location, stands out from the rest of the UI (give it an appropriate Bulma style for a seach button) and "looks like a button"
-    - controls should have labels and/or tooltips (use the `title` attribute)
+    - the search button is prominent, in an obvious location, stands out from the rest of the UI (give it an appropriate Bulma style/color for a search button) and "looks like a button"
+    - controls should have meanigful labels and/or tooltips (use the `title` attribute)
+    - the controls and input fields should have meaningful default values so that the user does not have to struggle to figure out how to use your app
+    - mousing over a control (such as a "Favorite Me" button) should highlight the button so that the user knows that its active. Use CSS `:hover` or JavaScript `onmouseover` / `onmouseout` etc to change properties of the control
 
-7) The app must always "let the user know what's going on" with activity indicators:
+7) The app must always "let the user know what's going on" with *activity indicators*:
     - use the `is-loading` Bulma class to get a "spinner" on a button - https://bulma.io/documentation/elements/button/
     - use a Bulma "Indeterminate Progress Bar" - https://bulma.io/documentation/elements/progress/#indeterminate
     - if a search result on a card is *favorited*, then the "Favorite Me!" button should change state to indicate that particular result cannot be favorited again
