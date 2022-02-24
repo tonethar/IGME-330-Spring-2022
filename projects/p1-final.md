@@ -16,7 +16,7 @@
 
 ## I. Requirements
 
-1) Everything from the prevous checkpoints is still required - 4 pages (and probabbly one mpore for this version), global navigations system, uses Bulma, uses a web service or data source and so on.
+1) Everything from the prevous checkpoints is still required - 4 pages (and probably one more for this version if you are using Firebase), global navigations system, uses Bulma, uses a web service or data source and so on.
 
 2) Every time the user clicks the search button, this App page WILL automatically save the last term searched by the user and the third control's UI *state* in the browser's `localStorage` - this was covered in IGME-230/235 here --> [Web Apps 9 - WebStorage API](https://github.com/tonethar/IGME-230-Master/blob/master/notes/web-apps-9.md):
     - we are going to test this capability by typing in a search term, changing a value of the 3rd control, doing a search, and then closing the browser window. When we re-open the window, the user's last search term must be visible, and the rest of the UI should be in the same *state*
@@ -37,12 +37,12 @@
     - if you want to add layers to your map, see the [Mapbox-III - Virus Map extra credit assignment](https://github.com/tonethar/IGME-330-Master/blob/master/notes/HW-mapbox-3.md)
   - If you are using Firebase, you will probably be meeting that requirement with a **"Community"** page, which shows the favorites of ALL of the app's users
     - We are covering Firebase on 7B and 8A
-    - You must to save some sort of web site data to "the cloud" using Firebase (typed in user search terms, favorited Pokemon, etc):
+    - You must to save (WRITE) some sort of web site data to "the cloud" using Firebase (typed in user search terms, favorited Pokemon, etc):
       - [2 - Firebase Highscore App](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-2.md) covers how to save data to the cloud using Firebase
-    - You must add a community.html page that will display at least some of this data to your users
+    - You must add a **community.html** page or similar that will display (READ) at least some of this data to your users
       - [3 - Firebase Highscore Viewer](https://github.com/tonethar/IGME-330-Master/blob/master/notes/firebase-3.md) covers how to read data from the cloud using Firebase
     - Important Note: 
-      - Individual data - a user's favorites and other user data (such as the last term searched by that user and other UI state) are still stored in the browser's local storage and displayed on your favorites.html page
+      - Individual data - a user's favorites and other user data (such as the last term searched by that user and other UI state) MUST still be stored in the browser's local storage and displayed on your **favorites.html** page
       - **community.html** will shows favorites (or other data) for ALL of the users
 
 6) The app must be easy to use, with well-labeled and obvious controls:
