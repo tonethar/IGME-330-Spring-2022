@@ -109,9 +109,8 @@
 
 **Community Page**
 
-![screenshot](https://github.com/tonethar/IGME-330-Fall-2021/blob/main/projects/_images/p2-example-1.png)
+![screenshot](_images/p1-final-ss-4.png)
 
-- Note the limit of 10 community favorites being displayed at once - you will probably want to do something similar
 
 <hr>
 
