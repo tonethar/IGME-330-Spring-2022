@@ -72,10 +72,10 @@
 - All `<script>` tags MUST be in the `<head>` section of the document and be of `type="module"`
 - All web components are in their own JS file. Component file names MUST match their tag name - example - the file that contains the `<sw-card>` code must be named **sw-card.js**
 - All web components must accept at least 1 *parameter* and utilize it. A parameter can be passed in via slots, attributes or via an object property
-- Simplify the code in your web components and eleminate any redudant code:
-  - for example, if you are just using slots and there's no JavaScript in the component, you probably don't need any of the lifecycle methods, nor do you even need a `render ()` helper method. The `template` and a `constructor()` should suffice
+- Simplify the code in your web components and eliminate any redudant code:
+  - for example, if you are just using slots and there's no JavaScript in the component, you probably don't need any of the lifecycle methods, nor do you even need a `render()` helper method. The `template` and a `constructor()` should suffice
 - All HTML pages must pass HTML validation - this includes your web components too
-  - be sure to test your **app.html** page AFTER you've loaded in some results and instantiated - for example - some `<sw-card>` component instances 
+  - be sure to test your **app.html** and **favorite.html** pages AFTER you've loaded in some results and instantiated - for example - some `<sw-card>` component instances 
   - https://validator.w3.org/
 - All CSS must pass CSS validation
   - https://jigsaw.w3.org/css-validator/
@@ -137,7 +137,7 @@ Your project will be graded on the following criteria:
 |    1. Required content is present on Home & Documentation Pages | |
 | **C. Design & Interaction** | **20** | |
 |    1. Global Navigation System with "you are here" cues: | |
-|    2. Pleasing graphic design (embedded font, Bulma, mobile friendly) | |
+|    2. Pleasing graphic design (Bulma, mobile friendly) | |
 |    3. Widgets are well labeled and follow interface conventions | |
 |    4. User errors must be handled gracefully | |
 |    5. Users must be able to figure out how to use the app with minimal instruction | |
@@ -147,6 +147,7 @@ Your project will be graded on the following criteria:
 |    - *Bulma not used or utilized ineffectively* | *(-20/-?)* |
 |    - *Interface looks "amateurish"  or like GIF Finder HW* | *(up to -15)* |
 |    - *Widgets NOT well labeled/do not follow interface conventions* | *(-?)* |
+|    - *Placeholder (ex. "Bulma by Jeremy Thomas", "Ace Coder" etc) content has not been removed* | *(-?)* |
 |    - *User errors NOT handled gracefully* | *(-?)* |
 |    - *App NOT intuitive to use* | *(-?)* |
 |    - *App state NOT obvious* | *(-?)* |
