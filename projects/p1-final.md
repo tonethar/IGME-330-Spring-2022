@@ -117,8 +117,8 @@
 ## IV. Rubric (DRAFT - still needs tweaking/simplification)
 
 - Note: All requirements from previous checkpoints are still in effect, and you will lose points for not meeting them
-
-Your project will be graded on the following criteria:
+- Your project will be graded on the following criteria
+- Also, be sure to carefully read the requirements above for an exact description of what is required (for example, requirement #2 details how UI state is to be stored under a single "key")
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
@@ -165,8 +165,9 @@ Your project will be graded on the following criteria:
 |    - *Code Conventions NOT followed* | *(-1 to -5 per incident)* |
 |    - *Code shows errors in console* | *(-5 per incident)* |
 |    - *App does not function on banjo and/or locally* | *(-10 to ?)* |
-|    - *App has fewer than 3 web components* | *(-5 each)* |
+|    - *App missing required web components* | *(-5 each)* |
 |    - *Web component NOT in its own JS file* | *(-5)* |
+|    - *Web component NOT not named properly* | *(-2)* |
 | **F. Impact**  | **20** | |
 |    - If the app meets the requirements above, we will award a 10% in this category, which means the base overall grade is 90% | |
 |    - *App functionality and programming goes beyond what we did in class* | *(+1 to +10)* |
