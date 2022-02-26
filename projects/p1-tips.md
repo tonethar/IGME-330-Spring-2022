@@ -65,6 +65,9 @@ if (burgerIcon) burgerIcon.onclick = () => navbarMenu.classList.toggle("is-activ
 ```html
 <script src="src/loader.js" type="module"></script>
 ```
+
+- **Note: for the final version, this hamburger code will likely get moved into `<app-navbar>`**
+- 
 <hr>
 
 ### I-C. `app.js`
