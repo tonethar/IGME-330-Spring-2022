@@ -118,7 +118,8 @@
 
 - Note: All requirements from previous checkpoints are still in effect, and you will lose points for not meeting them
 - Your project will be graded on the following criteria
-- Also, be sure to carefully read the requirements above for an exact description of what is required (for example, requirement #2 details how UI state is to be stored under a single "key")
+- Also, be sure to carefully read the requirements above for an exact description of what is required
+  - for example, requirement #2 details how UI state is to be stored under a single "key"
 
 | Criteria | Weight | Your Score |
 | -------- | ------ | ---------- |
@@ -131,7 +132,7 @@
 |    - *Web Service does not work (App Page)* | *(-30)* |
 |    - *Does not save/restore UI state (App Page)  | *(-10)* |
 |    - *Missing required # of controls (App Page)* | *(-10 each)* |
-|    - *Favorites not stored in localstorage (Favorites Page)* | *(-15)* |
+|    - *Favorites not stored in localstorage as detailed above (Favorites Page)* | *(-15)* |
 |    - *Missing Favorites "Delete" button (Favorites Page)* | *(-5)* |
 | **B. Content - Home & Documentation Pages** | **10** | |
 |    1. Required content is present on Home & Documentation Pages | |
