@@ -18,9 +18,11 @@
 - IGME-330-02 - TR 9:30AM-10:45AM - GOL 2570
 - IGME-330-04 - TR 5:00PM-6:15PM - MSS 3110
 - Professor: Tony Jefferson  
-- Email: tony@mail.rit.edu (Slack DM works too)
+- Email: tony@mail.rit.edu (Slack DM is *strongly* preferred)
 - Office hours:
-  - TBA
+  - TR 11:00AM-12:30PM
+  - Online only through Slack/Zoom.  DM me on Slack first to get started.
+  - Other M-F days/times available by request.
 
 ### Section 03 (Wheeland)
 - IGME-330-03 - TR 11:00AM-12:15PM - GOL 2570
