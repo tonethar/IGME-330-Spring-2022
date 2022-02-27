@@ -114,7 +114,7 @@
 
 <hr>
 
-## IV. Rubric (DRAFT - still needs tweaking/simplification)
+## IV. Rubric
 
 - Note: All requirements from previous checkpoints are still in effect, and you will lose points for not meeting them
 - Your project will be graded on the following criteria
