@@ -18,7 +18,7 @@ VI. [Other Resources](#resources)
 
 ## I. Handy Links
 
-- [Project 2 Requirements](project-2.md)
+- [Project 2 Requirements](p-2.md)
 - [Project 2 Coding Standards](330-code-style.md)
 - We will keep updating this page - so check back periodically!
 
