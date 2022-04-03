@@ -20,7 +20,6 @@ VI. [Other Resources](#resources)
 
 - [Project 2 Requirements](p2.md)
 - [Project 2 Coding Standards](330-code-style.md)
-- We will keep updating this page - so check back periodically!
 
 <hr>
 
