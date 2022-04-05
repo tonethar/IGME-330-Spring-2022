@@ -21,8 +21,9 @@
 - Email: tony@mail.rit.edu (Slack DM is *strongly* preferred)
 - Office hours:
   - TR 11:00AM-12:30PM
-  - Online only through Slack/Zoom.  DM me on Slack first to get started.
+  - Online only through Slack/Zoom is best.  DM me on Slack first to get started.
   - Other M-F days/times available by request.
+  - Office is GOL-2525
 
 ### Section 03 (Wheeland)
 - IGME-330-03 - TR 11:00AM-12:15PM - GOL 2570
