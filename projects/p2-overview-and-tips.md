@@ -99,7 +99,7 @@ VI. [Other Resources](#resources)
 
 ### III-D. Chrome Favicon Error Messages
 
-- get rid of those annoying messages by adding a favicon to your site - https://favicon.io/emoji-favicons/
+- get rid of those annoying console messages by adding a favicon to your site - https://favicon.io/emoji-favicons/
 
 
 <a id="av-tips" />
