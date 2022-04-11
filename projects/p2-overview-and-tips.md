@@ -164,7 +164,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
   - [Canvas III - Transformations](https://github.com/tonethar/IGME-330-Master/blob/master/notes/canvas-3.md)  - look at the animated rotating bezier curves in **screen-saver-2.html**
 
 ### IV-H. Alternative Inputs
-- You should use customized control buttons (Play/Pause) like we did in the AV HW, and add Bulma styles to them:
+- For highest "Impact", you should use *customized* audio control buttons (Play/Pause/Volume) like we did in the AV HW, and add Bulma styles to them:
   - don't use the built in `<audio>` element for controls
 - Web Cam
   - https://github.com/tonethar/IGME-330-Master/blob/master/notes/demo-web-audio-6.md
