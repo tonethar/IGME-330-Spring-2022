@@ -184,7 +184,9 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 
 2. Have a good "starting state" to your visualization - the controls should be pre-set to where the visualization has a pleasing state when the user first opens it
 
-3. Don't bore the user - have the visualization periodically change in major ways, automatically. Here's an example: http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html
+3. Don't bore the user - have the visualization periodically change in major ways, automatically. 
+
+<!-- Here's an example: http://igm.rit.edu/~acjvks/courses/2015-fall/330/demos/p1-demo/web-audio-example.html -->
 
 4. Give the user controls (sliders, check boxes, pull downs) to effect the visualization. The relationship between what the controls do and what happens on the screen should be obvious
 
