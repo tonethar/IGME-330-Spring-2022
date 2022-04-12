@@ -177,7 +177,7 @@ function drawLines(ctx,audioData,lineWidth=1,strokeStyle="white",magnitude=100,s
 
 ### IV-I. Lastly, ***What else can help us create an effective audio visualization?***
 
-1. There should be an analogous relationship between the sound data and what users are seeing on the screen - drawing should not be random like our "screen savers" at the beginning on the semester were. Can you instead help your viewer **learn** about sound & music by making new connections, and seeing new patterns, such as:
+1. There should be an analogous relationship between the sound data and what users are seeing on the screen - drawing should not be random like our "screen savers" HW assigments were. Can you instead help your viewer **learn** about sound & music by making new connections, and seeing new patterns, such as:
     - visualizing the "beat"
     - human voices fall into the lower frequencies
     - electronic instruments have a different "shape" than natural instruments
